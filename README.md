@@ -7,9 +7,15 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2021
 
+* Dec 02 - [[Stanford Internet Observatory]One Topic, Two Networks: Evaluating Two Chinese Influence Operations on Twitter Related to Xinjiang](https://stacks.stanford.edu/file/druid:sn407zm8237/20211202-china-twitter-takedown.pdf)
+
+* Dec 02 - [[Stanford Internet Observatory]In Bed with Embeds: How a Network Tied to IRA Operations Created Fake “Man on the Street” Content Embedded in News Articles](https://stacks.stanford.edu/file/druid:xw115vb5420/20211202-mena-twitter-takedown.pdf)
+
 * Oct 11 - [[Graphika] Likes for Lorestan - Unraveling a Decade of Iran-Linked Information Operations Targeting Domestic Audiences and International Critics](https://public-assets.graphika.com/reports/graphika_report_likes_for_lorestan.pdf)
 
 * Sep 07 - [[Mandiant] Pro-PRC Influence Campaign Expands to Dozens of Social Media Platforms, Websites, and Forums in at Least Seven Languages, Attempted to Physically Mobilize Protesters in the U.S.](https://www.mandiant.com/resources/pro-prc-influence-campaign-expands-dozens-social-media-platforms-websites-and-forums)
+
+* Jul 07 - [[Stanford Internet Observatory]My Heart Loves the Army: An Investigation into a Jordanian Disinformation Campaign on Facebook, TikTok and Twitter](https://stacks.stanford.edu/file/druid:hh528nc2557/20210707-jordan-fb-takedown.pdf)
 
 * Jun 07 - [[Graphika] Posing as Patriots](https://public-assets.graphika.com/reports/graphika_report_posing_as_patriots.pdf)
 
