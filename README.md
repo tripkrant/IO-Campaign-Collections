@@ -3,7 +3,7 @@ Collection of reports on Influence Operation campaigns.
 
 
 ## 2022
-
+* May 18 - [[Mandiant] The IO Offensive: Information Operations Surrounding the Russian Invasion of Ukraine](https://www.mandiant.com/resources/information-operations-surrounding-ukraine)
 
 ## 2021
 
