@@ -7,7 +7,7 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2021
 
-* Oct 11 - [[Graphika] Likes for Lorestan - Unraveling a Decade of Iran-Linked Information Operations Targeting Domestic Audiences and International Critics] (https://public-assets.graphika.com/reports/graphika_report_likes_for_lorestan.pdf)
+* Oct 11 - [[Graphika] Likes for Lorestan - Unraveling a Decade of Iran-Linked Information Operations Targeting Domestic Audiences and International Critics](https://public-assets.graphika.com/reports/graphika_report_likes_for_lorestan.pdf)
 
 * Jun 07 - [Graphika] Posing as Patriots
 
