@@ -17,18 +17,18 @@ Collection of reports on Influence Operation campaigns.
 
 * Sep 07 - [[Mandiant] Pro-PRC Influence Campaign Expands to Dozens of Social Media Platforms, Websites, and Forums in at Least Seven Languages, Attempted to Physically Mobilize Protesters in the U.S.](https://www.mandiant.com/resources/pro-prc-influence-campaign-expands-dozens-social-media-platforms-websites-and-forums)
 
-* Jul 07 - [[Stanford Internet Observatory]My Heart Loves the Army: An Investigation into a Jordanian Disinformation Campaign on Facebook, TikTok and Twitter](https://stacks.stanford.edu/file/druid:hh528nc2557/20210707-jordan-fb-takedown.pdf)
+* Jul 07 - [[Stanford Internet Observatory] My Heart Loves the Army: An Investigation into a Jordanian Disinformation Campaign on Facebook, TikTok and Twitter](https://stacks.stanford.edu/file/druid:hh528nc2557/20210707-jordan-fb-takedown.pdf)
 
 * Jun 07 - [[Graphika] Posing as Patriots](https://public-assets.graphika.com/reports/graphika_report_posing_as_patriots.pdf)
 
 * Mar 17 - [[FireEye] Ghostwriter Update: Cyber Espionage Group UNC1151 Likely Conducts Ghostwriter Influence Activity](https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/unc1151-ghostwriter-update-report.pdf)
 
-* Feb - [[Stanford Internet Observatory]Sockpuppets Target Nagorno-Karabakh](https://stacks.stanford.edu/file/druid:ym664kv8876/twitter-takedown-about-azerbaijan-feb-2021.pdf)
+* Feb - [[Stanford Internet Observatory] Sockpuppets Target Nagorno-Karabakh](https://stacks.stanford.edu/file/druid:ym664kv8876/twitter-takedown-about-azerbaijan-feb-2021.pdf)
 
 * Jan 12 - [[Graphika] Echoes of Fake News](https://public-assets.graphika.com/reports/graphika_report_echoes_of_fake_news.pdf)
 
 ## 2020
-* Dec 15 - [[Stanford Internet Observatory]Stoking Conflicts by Keystroke: An Operation Run by IRA-Linked Individuals Targeting Libya, Sudan, and Syria](https://stacks.stanford.edu/file/druid:qg973fs1649/IRALibyaSudanSyriaReport.pdf)
+* Dec 15 - [[Stanford Internet Observatory] Stoking Conflicts by Keystroke: An Operation Run by IRA-Linked Individuals Targeting Libya, Sudan, and Syria](https://stacks.stanford.edu/file/druid:qg973fs1649/IRALibyaSudanSyriaReport.pdf)
 
 * Sep 24 - [[Graphika] GRU and the Minions](https://public-assets.graphika.com/reports/graphika_report_gru_minions.pdf)
 
