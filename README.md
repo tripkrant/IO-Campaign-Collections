@@ -9,9 +9,9 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2021
 
-* Dec 02 - [[Stanford Internet Observatory]One Topic, Two Networks: Evaluating Two Chinese Influence Operations on Twitter Related to Xinjiang](https://stacks.stanford.edu/file/druid:sn407zm8237/20211202-china-twitter-takedown.pdf)
+* Dec 02 - [[Stanford Internet Observatory] One Topic, Two Networks: Evaluating Two Chinese Influence Operations on Twitter Related to Xinjiang](https://stacks.stanford.edu/file/druid:sn407zm8237/20211202-china-twitter-takedown.pdf)
 
-* Dec 02 - [[Stanford Internet Observatory]In Bed with Embeds: How a Network Tied to IRA Operations Created Fake “Man on the Street” Content Embedded in News Articles](https://stacks.stanford.edu/file/druid:xw115vb5420/20211202-mena-twitter-takedown.pdf)
+* Dec 02 - [[Stanford Internet Observatory] In Bed with Embeds: How a Network Tied to IRA Operations Created Fake “Man on the Street” Content Embedded in News Articles](https://stacks.stanford.edu/file/druid:xw115vb5420/20211202-mena-twitter-takedown.pdf)
 
 * Oct 11 - [[Graphika] Likes for Lorestan - Unraveling a Decade of Iran-Linked Information Operations Targeting Domestic Audiences and International Critics](https://public-assets.graphika.com/reports/graphika_report_likes_for_lorestan.pdf)
 
