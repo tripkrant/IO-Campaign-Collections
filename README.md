@@ -2,22 +2,22 @@
 Collection of reports on Influence Operation campaigns.
 
 
-2022
+## 2022
 
 
-2021
+## 2021
 
-Oct 11 - [Graphika] Likes for Lorestan - Unraveling a Decade of Iran-Linked Information Operations Targeting Domestic Audiences and International Critics
+* Oct 11 - [[Graphika] Likes for Lorestan - Unraveling a Decade of Iran-Linked Information Operations Targeting Domestic Audiences and International Critics] (https://public-assets.graphika.com/reports/graphika_report_likes_for_lorestan.pdf)
 
-Jun 07 - [Graphika] Posing as Patriots
+* Jun 07 - [Graphika] Posing as Patriots
 
-Mar 17 - [FireEye] Ghostwriter Update: Cyber Espionage Group UNC1151 Likely Conducts Ghostwriter Influence Activity
+* Mar 17 - [FireEye] Ghostwriter Update: Cyber Espionage Group UNC1151 Likely Conducts Ghostwriter Influence Activity
 
-Jan 12 - [Graphika] Echoes of Fake News
+* Jan 12 - [Graphika] Echoes of Fake News
 
 
 
-2020
+## 2020
 
 Sep 24 - [Graphika] GRU and the Minions
 
@@ -36,7 +36,7 @@ Feb 12 - [Graphika] From Russia With Blogs
 
 
 
-2019
+## 2019
 
 Oct 29 - [Stanford Internet Observatory] Evidence of Russia-Linked Influence Operations in Africa
 
