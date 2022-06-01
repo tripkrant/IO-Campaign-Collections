@@ -23,13 +23,16 @@ Collection of reports on Influence Operation campaigns.
 
 * Mar 17 - [[FireEye] Ghostwriter Update: Cyber Espionage Group UNC1151 Likely Conducts Ghostwriter Influence Activity](https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/unc1151-ghostwriter-update-report.pdf)
 
+* Feb - [[Stanford Internet Observatory]Sockpuppets Target Nagorno-Karabakh](https://stacks.stanford.edu/file/druid:ym664kv8876/twitter-takedown-about-azerbaijan-feb-2021.pdf)
+
 * Jan 12 - [[Graphika] Echoes of Fake News](https://public-assets.graphika.com/reports/graphika_report_echoes_of_fake_news.pdf)
 
 ## 2020
+* Dec 15 - [[Stanford Internet Observatory]Stoking Conflicts by Keystroke: An Operation Run by IRA-Linked Individuals Targeting Libya, Sudan, and Syria](https://stacks.stanford.edu/file/druid:qg973fs1649/IRALibyaSudanSyriaReport.pdf)
 
 * Sep 24 - [[Graphika] GRU and the Minions](https://public-assets.graphika.com/reports/graphika_report_gru_minions.pdf)
 
-* Jul 28 [[Mandiant] 'Ghostwriter' Influence Campaign: Unknown Actors Leverage Website Compromises and Fabricated Content to Push Narratives Aligned With Russian Security Interests](https://www.mandiant.com/resources/ghostwriter-influence-campaign)
+* Jul 28 - [[Mandiant] 'Ghostwriter' Influence Campaign: Unknown Actors Leverage Website Compromises and Fabricated Content to Push Narratives Aligned With Russian Security Interests](https://www.mandiant.com/resources/ghostwriter-influence-campaign)
 
 * Jun 16 - [[Graphika] Secondary Infektion](https://secondaryinfektion.org/downloads/secondary-infektion-report.pdf)
 
