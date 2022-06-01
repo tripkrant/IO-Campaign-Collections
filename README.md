@@ -48,6 +48,8 @@ Collection of reports on Influence Operation campaigns.
 
 * Mar 12 - [[Facebook] Removing Coordinated Inauthentic Behavior From Russia](https://about.fb.com/news/2020/03/removing-coordinated-inauthentic-behavior-from-russia/)
 
+* Mar 02 - [[Graphika] Operation Red Card](https://public-assets.graphika.com/reports/graphika_report_operation_redcard.pdf)
+
 * Feb 21 - [[FireEye] ‘Ghostwriter’ Influence Campaign: Unknown Actors Leverage Website Compromises and Fabricated Content to Push Narratives Aligned with Russian Security Interests](https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/Ghostwriter-Influence-Campaign.pdf)
 
 * Feb 12 - [[Graphika] From Russia With Blogs](https://public-assets.graphika.com/reports/graphika_report_from_russia_with_blogs.pdf)
@@ -65,6 +67,8 @@ Collection of reports on Influence Operation campaigns.
 * Jun 20 - [[Atlantic Council] The “Macron Leaks” Operation: A Post-Mortem](https://www.atlanticcouncil.org/wp-content/uploads/2019/06/The_Macron_Leaks_Operation-A_Post-Mortem.pdf)
 
 * May 28 - [[FireEye] Network of Social Media Accounts Impersonates U.S. Political Candidates, Leverages U.S. and Israeli Media in Support of Iranian Interests](https://www.fireeye.com/blog/threat-research/2019/05/social-media-network-impersonates-us-political-candidates-supports-iranian-interests.html)
+
+* May 17 - [[DFRLab] Inauthentic Israeli Facebook Assets Target the World](https://medium.com/dfrlab/inauthentic-israeli-facebook-assets-target-the-world-281ad7254264)
 
 * Mar 06 - [[Recorded Future] Beyond Hybrid War: How China Exploits Social Media to Sway American Opinion](https://go.recordedfuture.com/hubfs/reports/cta-2019-0306.pdf)
 
