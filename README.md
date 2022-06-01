@@ -5,6 +5,8 @@ Collection of reports on Influence Operation campaigns.
 ## 2022
 * May 18 - [[Mandiant] The IO Offensive: Information Operations Surrounding the Russian Invasion of Ukraine](https://www.mandiant.com/resources/information-operations-surrounding-ukraine)
 
+* Apr 07 - [[Graphika] Slash and Burner Accounts](https://public-assets.graphika.com/reports/graphika_report_slash_and_burner_accounts.pdf)
+
 ## 2021
 
 * Dec 02 - [[Stanford Internet Observatory]One Topic, Two Networks: Evaluating Two Chinese Influence Operations on Twitter Related to Xinjiang](https://stacks.stanford.edu/file/druid:sn407zm8237/20211202-china-twitter-takedown.pdf)
