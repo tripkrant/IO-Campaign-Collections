@@ -9,6 +9,8 @@ Collection of reports on Influence Operation campaigns.
 
 * Oct 11 - [[Graphika] Likes for Lorestan - Unraveling a Decade of Iran-Linked Information Operations Targeting Domestic Audiences and International Critics](https://public-assets.graphika.com/reports/graphika_report_likes_for_lorestan.pdf)
 
+* Sep 07 - [[Mandiant] Pro-PRC Influence Campaign Expands to Dozens of Social Media Platforms, Websites, and Forums in at Least Seven Languages, Attempted to Physically Mobilize Protesters in the U.S.](https://www.mandiant.com/resources/pro-prc-influence-campaign-expands-dozens-social-media-platforms-websites-and-forums)
+
 * Jun 07 - [[Graphika] Posing as Patriots](https://public-assets.graphika.com/reports/graphika_report_posing_as_patriots.pdf)
 
 * Mar 17 - [[FireEye] Ghostwriter Update: Cyber Espionage Group UNC1151 Likely Conducts Ghostwriter Influence Activity](https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/unc1151-ghostwriter-update-report.pdf)
@@ -18,6 +20,8 @@ Collection of reports on Influence Operation campaigns.
 ## 2020
 
 * Sep 24 - [[Graphika] GRU and the Minions](https://public-assets.graphika.com/reports/graphika_report_gru_minions.pdf)
+
+* Jul 28 [[Mandiant] 'Ghostwriter' Influence Campaign: Unknown Actors Leverage Website Compromises and Fabricated Content to Push Narratives Aligned With Russian Security Interests](https://www.mandiant.com/resources/ghostwriter-influence-campaign)
 
 * Jun 16 - [[Graphika] Secondary Infektion](https://secondaryinfektion.org/downloads/secondary-infektion-report.pdf)
 
@@ -30,6 +34,8 @@ Collection of reports on Influence Operation campaigns.
 * Feb 21 - [[FireEye] ‘Ghostwriter’ Influence Campaign: Unknown Actors Leverage Website Compromises and Fabricated Content to Push Narratives Aligned with Russian Security Interests](https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/Ghostwriter-Influence-Campaign.pdf)
 
 * Feb 12 - [[Graphika] From Russia With Blogs](https://public-assets.graphika.com/reports/graphika_report_from_russia_with_blogs.pdf)
+
+* Feb 12 - [[FireEye] "Distinguished Impersonator" Information Operation That Previously Impersonated U.S. Politicians and Journalists on Social Media Leverages Fabricated U.S. Liberal Personas to Promote Iranian Interests](https://www.fireeye.com/blog/threat-research/2020/02/information-operations-fabricated-personas-to-promote-iranian-interests.html)
 
 ## 2019
 
@@ -47,6 +53,6 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2018
 
-* Aug 21 - [[Mandiant] Suspected Iranian Influence Operation Leveraging Inauthentic News Sites and Social Media Aimed at U.S., U.K., Other Audiences](https://www.fireeye.com/blog/threat-research/2019/05/social-media-network-impersonates-us-political-candidates-supports-iranian-interests.html)
+* Aug 21 - [[FireEye] Suspected Iranian Influence Operation Leveraging Inauthentic News Sites and Social Media Aimed at U.S., U.K., Other Audiences](https://www.fireeye.com/blog/threat-research/2019/05/social-media-network-impersonates-us-political-candidates-supports-iranian-interests.html)
 
 
