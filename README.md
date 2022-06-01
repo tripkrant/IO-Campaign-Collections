@@ -3,6 +3,7 @@ Collection of reports on Influence Operation campaigns.
 
 
 ## 2022
+
 * May 18 - [[Mandiant] The IO Offensive: Information Operations Surrounding the Russian Invasion of Ukraine](https://www.mandiant.com/resources/information-operations-surrounding-ukraine)
 
 * Apr 07 - [[Graphika] Slash and Burner Accounts](https://public-assets.graphika.com/reports/graphika_report_slash_and_burner_accounts.pdf)
@@ -30,6 +31,7 @@ Collection of reports on Influence Operation campaigns.
 * Jan 12 - [[Graphika] Echoes of Fake News](https://public-assets.graphika.com/reports/graphika_report_echoes_of_fake_news.pdf)
 
 ## 2020
+
 * Dec 15 - [[Stanford Internet Observatory] Stoking Conflicts by Keystroke: An Operation Run by IRA-Linked Individuals Targeting Libya, Sudan, and Syria](https://stacks.stanford.edu/file/druid:qg973fs1649/IRALibyaSudanSyriaReport.pdf)
 
 * Dec 15 - [[Facebook] Removing Coordinated Inauthentic Behavior from France and Russia](https://about.fb.com/news/2020/12/removing-coordinated-inauthentic-behavior-france-russia/)
@@ -40,9 +42,15 @@ Collection of reports on Influence Operation campaigns.
 
 * Jun 16 - [[Graphika] Secondary Infektion](https://secondaryinfektion.org/downloads/secondary-infektion-report.pdf)
 
+* Jun 11 - [[Stanford Internet Observatory] Sockpuppets Spin COVID Yarns: An Analysis of PRC-Attributed June 2020 Twitter takedown](https://stacks.stanford.edu/file/druid:zf032rd0838/20200611_China_Report.pdf)
+
 * Apr 29 - [[Recorded Future] Chinese Influence Operations Evolve in Campaigns Targeting Taiwanese Elections, Hong Kong Protests](https://go.recordedfuture.com/hubfs/reports/cta-2020-0429.pdf)
 
 * Apr 08 - [[Recorded Future] Intent to Infekt: ‘Operation Pinball’ Tactics Reminiscent of ‘Operation Secondary Infektion’](https://go.recordedfuture.com/hubfs/reports/cta-2020-0408.pdf)
+
+* Apr 02 - [[Stanford Internet Observatory] “Fighting Like a Lion for Serbia”: An Analysis of Government-Linked Influence Operations in Serbia](https://fsi-live.s3.us-west-1.amazonaws.com/s3fs-public/serbia_march_twitter.pdf)
+
+* Apr 02 - [[Stanford Internet Observatory] Blame it on Iran, Qatar, and Turkey: An analysis of a Twitter and Facebook operation linked to Egypt, the UAE, and Saudi Arabia](https://fsi-live.s3.us-west-1.amazonaws.com/s3fs-public/20200402_blame_it_on_iran_qatar_and_turkey_v2_0.pdf)
 
 * Mar 30 - [[Recorded Future] Chinese State Media Seeks to Influence International Perceptions of COVID-19 Pandemic](https://go.recordedfuture.com/hubfs/reports/cta-2020-0330.pdf)
 
