@@ -19,6 +19,8 @@ Collection of reports on Influence Operation campaigns.
 
 * Jul 07 - [[Stanford Internet Observatory] My Heart Loves the Army: An Investigation into a Jordanian Disinformation Campaign on Facebook, TikTok and Twitter](https://stacks.stanford.edu/file/druid:hh528nc2557/20210707-jordan-fb-takedown.pdf)
 
+* Jun 16 - [[Facebook] Removing Coordinated Inauthentic Behavior From Ethiopia](https://about.fb.com/news/2021/06/removing-coordinated-inauthentic-behavior-from-ethiopia/)
+
 * Jun 07 - [[Graphika] Posing as Patriots](https://public-assets.graphika.com/reports/graphika_report_posing_as_patriots.pdf)
 
 * Mar 17 - [[FireEye] Ghostwriter Update: Cyber Espionage Group UNC1151 Likely Conducts Ghostwriter Influence Activity](https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/unc1151-ghostwriter-update-report.pdf)
@@ -29,6 +31,8 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2020
 * Dec 15 - [[Stanford Internet Observatory] Stoking Conflicts by Keystroke: An Operation Run by IRA-Linked Individuals Targeting Libya, Sudan, and Syria](https://stacks.stanford.edu/file/druid:qg973fs1649/IRALibyaSudanSyriaReport.pdf)
+
+* Dec 15 - [[Facebook] Removing Coordinated Inauthentic Behavior from France and Russia](https://about.fb.com/news/2020/12/removing-coordinated-inauthentic-behavior-france-russia/)
 
 * Sep 24 - [[Graphika] GRU and the Minions](https://public-assets.graphika.com/reports/graphika_report_gru_minions.pdf)
 
@@ -41,6 +45,8 @@ Collection of reports on Influence Operation campaigns.
 * Apr 08 - [[Recorded Future] Intent to Infekt: ‘Operation Pinball’ Tactics Reminiscent of ‘Operation Secondary Infektion’](https://go.recordedfuture.com/hubfs/reports/cta-2020-0408.pdf)
 
 * Mar 30 - [[Recorded Future] Chinese State Media Seeks to Influence International Perceptions of COVID-19 Pandemic](https://go.recordedfuture.com/hubfs/reports/cta-2020-0330.pdf)
+
+* Mar 12 - [[Facebook] Removing Coordinated Inauthentic Behavior From Russia](https://about.fb.com/news/2020/03/removing-coordinated-inauthentic-behavior-from-russia/)
 
 * Feb 21 - [[FireEye] ‘Ghostwriter’ Influence Campaign: Unknown Actors Leverage Website Compromises and Fabricated Content to Push Narratives Aligned with Russian Security Interests](https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/Ghostwriter-Influence-Campaign.pdf)
 
