@@ -82,6 +82,8 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2018
 
+* Nov - [[New Knowledge] The Tactics & Tropes of the Internet Research Agency](https://int.nyt.com/data/documenthelper/533-read-report-internet-research-agency/7871ea6d5b7bedafbf19/optimized/full.pdf)
+
 * Aug 21 - [[FireEye] Suspected Iranian Influence Operation Leveraging Inauthentic News Sites and Social Media Aimed at U.S., U.K., Other Audiences](https://www.fireeye.com/blog/threat-research/2019/05/social-media-network-impersonates-us-political-candidates-supports-iranian-interests.html)
 
 
