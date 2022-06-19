@@ -87,3 +87,16 @@ Collection of reports on Influence Operation campaigns.
 * Aug 21 - [[FireEye] Suspected Iranian Influence Operation Leveraging Inauthentic News Sites and Social Media Aimed at U.S., U.K., Other Audiences](https://www.fireeye.com/blog/threat-research/2019/05/social-media-network-impersonates-us-political-candidates-supports-iranian-interests.html)
 
 
+## Analysis Frameworks
+
+* [[Recorded Future] The Diamond Model for Influence Operations Analysis](https://go.recordedfuture.com/hubfs/white-papers/diamond-model-influence-operations-analysis.pdf)
+
+* [[FFI] Understanding Influence Operations in Social Media: A Cyber Kill Chain Approach](https://publications.ffi.no/nb/item/asset/dspace:7027/1855480.pdf)
+
+* [[Atlantic Council] SCOTCH: A Framework for Rapidly Assessing Influence Operations](https://www.atlanticcouncil.org/blogs/geotech-cues/scotch-a-framework-for-rapidly-assessing-influence-operations/)
+
+* [[Brookings] The Breakout Scale: Measuring the Impact of Influence Operations](https://www.brookings.edu/wp-content/uploads/2020/09/Nimmo_influence_operations_PDF.pdf)
+
+* [[Francois] Disinformation ABC (+D)](https://science.house.gov/imo/media/doc/Francois%20Addendum%20to%20Testimony%20-%20ABC_Framework_2019_Sept_2019.pdf)
+
+* [[CogSec Collaborative] AMITT Disinformation Tactics, Techniques and Processes (TTP) Framework](https://github.com/cogsec-collaborative/AMITT)
