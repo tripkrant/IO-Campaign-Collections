@@ -4,6 +4,8 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2022
 
+* Jun 22 - [[Microsoft] Defending Ukraine: Early Lessons from the Cyber War](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50KOK)
+
 * May 18 - [[Mandiant] The IO Offensive: Information Operations Surrounding the Russian Invasion of Ukraine](https://www.mandiant.com/resources/information-operations-surrounding-ukraine)
 
 * Apr 07 - [[Graphika] Slash and Burner Accounts](https://public-assets.graphika.com/reports/graphika_report_slash_and_burner_accounts.pdf)
