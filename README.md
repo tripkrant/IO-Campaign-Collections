@@ -8,7 +8,7 @@ Collection of reports on Influence Operation campaigns.
 
 * Jun 22 - [[Microsoft] Defending Ukraine: Early Lessons from the Cyber War](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50KOK)
 
-* May 18 - [[Mandiant] The IO Offensive: Information Operations Surrounding the Russian Invasion of Ukraine (https://www.mandiant.com/resources/information-operations-surrounding-ukraine)
+* May 18 - [[Mandiant] The IO Offensive: Information Operations Surrounding the Russian Invasion of Ukraine(https://www.mandiant.com/resources/information-operations-surrounding-ukraine)
 
 * May 09 - [[CEPA] Post-Mortem: Russian and Chinese COVID-19 Information Operations](https://cepa.org/wp-content/uploads/2022/05/COVID-Phase-4-v3.pdf)
 
