@@ -8,7 +8,9 @@ Collection of reports on Influence Operation campaigns.
 
 * Jun 22 - [[Microsoft] Defending Ukraine: Early Lessons from the Cyber War](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50KOK)
 
-* May 18 - [[Mandiant] The IO Offensive: Information Operations Surrounding the Russian Invasion of Ukraine](https://www.mandiant.com/resources/information-operations-surrounding-ukraine)
+* May 18 - [[Mandiant] The IO Offensive: Information Operations Surrounding the Russian Invasion of Ukraine (https://www.mandiant.com/resources/information-operations-surrounding-ukraine)
+
+* May 09 - [[CEPA] Post-Mortem: Russian and Chinese COVID-19 Information Operations](https://cepa.org/wp-content/uploads/2022/05/COVID-Phase-4-v3.pdf)
 
 * Apr 07 - [[Graphika] Slash and Burner Accounts](https://public-assets.graphika.com/reports/graphika_report_slash_and_burner_accounts.pdf)
 
@@ -30,6 +32,8 @@ Collection of reports on Influence Operation campaigns.
 
 * Mar 17 - [[FireEye] Ghostwriter Update: Cyber Espionage Group UNC1151 Likely Conducts Ghostwriter Influence Activity](https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/unc1151-ghostwriter-update-report.pdf)
 
+* Mar 12 - [[CEPA] Information Bedlam: Russian and Chinese Information Operations During COVID-19](https://cepa.org/wp-content/uploads/2021/03/CEPA-Russia-China-9.14.21.pdf)
+
 * Feb - [[Stanford Internet Observatory] Sockpuppets Target Nagorno-Karabakh](https://stacks.stanford.edu/file/druid:ym664kv8876/twitter-takedown-about-azerbaijan-feb-2021.pdf)
 
 * Jan 12 - [[Graphika] Echoes of Fake News](https://public-assets.graphika.com/reports/graphika_report_echoes_of_fake_news.pdf)
@@ -40,6 +44,8 @@ Collection of reports on Influence Operation campaigns.
 
 * Dec 15 - [[Facebook] Removing Coordinated Inauthentic Behavior from France and Russia](https://about.fb.com/news/2020/12/removing-coordinated-inauthentic-behavior-france-russia/)
 
+* Oct 22 - [[Omelas] Minds Besieged - Digital Warfare Against the American Electorate](https://www.omelas.io/mb-report)
+
 * Sep 24 - [[Graphika] GRU and the Minions](https://public-assets.graphika.com/reports/graphika_report_gru_minions.pdf)
 
 * Jul 28 - [[Mandiant] 'Ghostwriter' Influence Campaign: Unknown Actors Leverage Website Compromises and Fabricated Content to Push Narratives Aligned With Russian Security Interests](https://www.mandiant.com/resources/ghostwriter-influence-campaign)
@@ -47,6 +53,8 @@ Collection of reports on Influence Operation campaigns.
 * Jun 16 - [[Graphika] Secondary Infektion](https://secondaryinfektion.org/downloads/secondary-infektion-report.pdf)
 
 * Jun 11 - [[Stanford Internet Observatory] Sockpuppets Spin COVID Yarns: An Analysis of PRC-Attributed June 2020 Twitter takedown](https://stacks.stanford.edu/file/druid:zf032rd0838/20200611_China_Report.pdf)
+
+* May 12 - [[Omelas] Viral Overload - An Analysis of COVID-19 Information Operations](https://www.omelas.io/viral-overload)
 
 * Apr 29 - [[Recorded Future] Chinese Influence Operations Evolve in Campaigns Targeting Taiwanese Elections, Hong Kong Protests](https://go.recordedfuture.com/hubfs/reports/cta-2020-0429.pdf)
 
@@ -90,6 +98,9 @@ Collection of reports on Influence Operation campaigns.
 
 * Aug 21 - [[FireEye] Suspected Iranian Influence Operation Leveraging Inauthentic News Sites and Social Media Aimed at U.S., U.K., Other Audiences](https://www.fireeye.com/blog/threat-research/2019/05/social-media-network-impersonates-us-political-candidates-supports-iranian-interests.html)
 
+## Unknown Date
+
+* [[Omelas] Digital Assault on the US Defense Industrial Base - How US Defense Contractors are Targeted by Information Operations](https://www.omelas.io/defense-contractors)
 
 ## Analysis Frameworks
 
