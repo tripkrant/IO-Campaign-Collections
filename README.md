@@ -4,6 +4,8 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2022
 
+* Jul 07 - [[Recorded Future]Russian Information Operations Aim to Divide the Western Coalition on Ukraine(https://s3.documentcloud.org/documents/22080550/ta-2022-0707-1.pdf)
+
 * Jun 28 - [[Mandiant] Pro-PRC DRAGONBRIDGE Influence Campaign Targets Rare Earths Mining Companies in Attempt to Thwart Rivalry to PRC Market Dominance](https://www.mandiant.com/resources/dragonbridge-targets-rare-earths-mining-companies)
 
 * Jun 22 - [[Microsoft] Defending Ukraine: Early Lessons from the Cyber War](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50KOK)
