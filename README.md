@@ -106,6 +106,8 @@ Collection of reports on Influence Operation campaigns.
 
 ## Analysis Frameworks
 
+* [[DISARM Foundation] DISARM Disinformation TTP (Tactics, Techniques and Procedures) Framework](https://github.com/DISARMFoundation/DISARMframeworks)
+
 * [[Recorded Future] The Diamond Model for Influence Operations Analysis](https://go.recordedfuture.com/hubfs/white-papers/diamond-model-influence-operations-analysis.pdf)
 
 * [[FFI] Understanding Influence Operations in Social Media: A Cyber Kill Chain Approach](https://publications.ffi.no/nb/item/asset/dspace:7027/1855480.pdf)
