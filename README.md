@@ -18,6 +18,8 @@ Collection of reports on Influence Operation campaigns.
 
 * Apr 07 - [[Graphika] Slash and Burner Accounts](https://public-assets.graphika.com/reports/graphika_report_slash_and_burner_accounts.pdf)
 
+* Feb 28 - [[Google Threat Analysis Group] TAG Bulletin: Q1 2022](https://blog.google/threat-analysis-group/tag-bulletin-q1-2022/)
+
 ## 2021
 
 * Dec 02 - [[Stanford Internet Observatory] One Topic, Two Networks: Evaluating Two Chinese Influence Operations on Twitter Related to Xinjiang](https://stacks.stanford.edu/file/druid:sn407zm8237/20211202-china-twitter-takedown.pdf)
