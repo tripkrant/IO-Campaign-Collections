@@ -4,6 +4,8 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2022
 
+* Aug 04 - [[Mandiant] Pro-PRC “HaiEnergy” Information Operations Campaign Leverages Infrastructure from Public Relations Firm to Disseminate Content on Inauthentic News Sites](https://www.mandiant.com/resources/pro-prc-information-operations-campaign-haienergy)
+
 * Jul 12 - [[Google Threat Analysis Group] TAG Bulletin: Q2 2022](https://blog.google/threat-analysis-group/tag-bulletin-q2-2022/)
 
 * Jul 07 - [[Recorded Future] Russian Information Operations Aim to Divide the Western Coalition on Ukraine](https://s3.documentcloud.org/documents/22080550/ta-2022-0707-1.pdf)
