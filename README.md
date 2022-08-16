@@ -4,6 +4,8 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2022
 
+* Aug 04 - [[Stanford Internet Observatory] Mind Farce: An Investigation into an Inauthentic Facebook and Instagram Network Linked to an Israeli Public Relations Firm](https://stacks.stanford.edu/file/druid:vh191ny7721/20220804%20Mind%20Force.pdf)
+
 * Aug 04 - [[Meta] Meta’s Adversarial Threat Report, Second Quarter 2022](https://about.fb.com/wp-content/uploads/2022/08/Quarterly-Adversarial-Threat-Report-Q2-2022.pdf)
 
 * Aug 04 - [[Mandiant] Pro-PRC “HaiEnergy” Information Operations Campaign Leverages Infrastructure from Public Relations Firm to Disseminate Content on Inauthentic News Sites](https://www.mandiant.com/resources/pro-prc-information-operations-campaign-haienergy)
