@@ -4,6 +4,8 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2022
 
+* Sep 21 - [[Stanford Internet Observatory] My Heart Belongs to Kashmir: An Analysis of a Pro-Indian Army Covert Influence Operation on Twitter](https://stacks.stanford.edu/file/druid:zs105tw7107/20220921%20India%20takedown.pdf)
+
 * Aug 24 - [[Graphika & Stanford Internet Observatory] Unheard Voice: Evaluating five years of pro-Western covert influence operations](https://stacks.stanford.edu/file/druid:nj914nx9540/unheard-voice-tt.pdf)
 
 * Aug 04 - [[Stanford Internet Observatory] Mind Farce: An Investigation into an Inauthentic Facebook and Instagram Network Linked to an Israeli Public Relations Firm](https://stacks.stanford.edu/file/druid:vh191ny7721/20220804%20Mind%20Force.pdf)
