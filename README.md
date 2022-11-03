@@ -4,7 +4,7 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2022
 
-* Nov 1 - [[Election Integrity Partnership]Assessing Inauthentic Networks Commenting on the US Midterms](https://www.eipartnership.net/blog/inauthentic-foreign-networks)
+* Nov 1 - [[Election Integrity Partnership] Assessing Inauthentic Networks Commenting on the US Midterms](https://www.eipartnership.net/blog/inauthentic-foreign-networks)
 
 * Oct 26 - [[Mandiant] Pro-PRC DRAGONBRIDGE Influence Campaign Leverages New TTPs to Aggressively Target U.S. Interests, Including Midterm Elections](https://www.mandiant.com/resources/blog/prc-dragonbridge-influence-elections)
 
