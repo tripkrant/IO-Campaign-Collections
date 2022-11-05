@@ -10,6 +10,8 @@ Collection of reports on Influence Operation campaigns.
 
 * Oct 25 - [[Althea Group] Network of Inauthentic Twitter Accounts Spreads Polarizing Content Ahead of U.S. Midterm Elections](https://www.aletheagroup.com/post/network-of-inauthentic-twitter-accounts-spreads-polarizing-content-ahead-of-u-s-midterm-elections)
 
+* Oct 19 - [[Nisos] Twitter: Fake Accounts Amplify Chinese State Media for the 20th National Congress](https://www.nisos.com/library/twitter-fake-accounts-amplify-ccp-for-national-congress-report/)
+
 * Sep 21 - [[Stanford Internet Observatory] My Heart Belongs to Kashmir: An Analysis of a Pro-Indian Army Covert Influence Operation on Twitter](https://stacks.stanford.edu/file/druid:zs105tw7107/20220921%20India%20takedown.pdf)
 
 * Aug 24 - [[Graphika & Stanford Internet Observatory] Unheard Voice: Evaluating five years of pro-Western covert influence operations](https://stacks.stanford.edu/file/druid:nj914nx9540/unheard-voice-tt.pdf)
