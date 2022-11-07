@@ -4,7 +4,9 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2022
 
-* Nov 1 - [[Election Integrity Partnership] Assessing Inauthentic Networks Commenting on the US Midterms](https://www.eipartnership.net/blog/inauthentic-foreign-networks)
+* Nov 03 - [[Graphika] Same Schmitz, Different Day](https://graphika.com/posts/same-schmitz-different-day)
+
+* Nov 01 - [[Election Integrity Partnership] Assessing Inauthentic Networks Commenting on the US Midterms](https://www.eipartnership.net/blog/inauthentic-foreign-networks)
 
 * Oct 26 - [[Mandiant] Pro-PRC DRAGONBRIDGE Influence Campaign Leverages New TTPs to Aggressively Target U.S. Interests, Including Midterm Elections](https://www.mandiant.com/resources/blog/prc-dragonbridge-influence-elections)
 
@@ -15,6 +17,8 @@ Collection of reports on Influence Operation campaigns.
 * Oct 05 - [[Nisos] Russian’s RT Leads a Global “Information Militia” on Social Media to Bypass Censorship on Ukraine-Related Disinformation](https://6068438.fs1.hubspotusercontent-na1.net/hubfs/6068438/Nisos-Report-on-RT-Global-Information-Militia.pdf)
 
 * Sep 21 - [[Stanford Internet Observatory] My Heart Belongs to Kashmir: An Analysis of a Pro-Indian Army Covert Influence Operation on Twitter](https://stacks.stanford.edu/file/druid:zs105tw7107/20220921%20India%20takedown.pdf)
+
+* Sep 12 - [[Graphika] Trolling Taiwan](https://graphika.com/posts/trolling-taiwan)
 
 * Aug 24 - [[Graphika & Stanford Internet Observatory] Unheard Voice: Evaluating five years of pro-Western covert influence operations](https://stacks.stanford.edu/file/druid:nj914nx9540/unheard-voice-tt.pdf)
 
