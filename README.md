@@ -4,6 +4,8 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2022
 
+* Nov 10 - [[Google Threat Analysis Group] Prigozhin interests and Russian information operations](https://blog.google/threat-analysis-group/prigozhin-interests-and-russian-information-operations/)
+
 * Nov 03 - [[Graphika] Same Schmitz, Different Day](https://graphika.com/posts/same-schmitz-different-day)
 
 * Nov 01 - [[Election Integrity Partnership] Assessing Inauthentic Networks Commenting on the US Midterms](https://www.eipartnership.net/blog/inauthentic-foreign-networks)
