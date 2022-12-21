@@ -6,6 +6,10 @@ Collection of reports on Influence Operation campaigns.
 
 * Dec 19 - [[Mandiant] Information Operations Targeting 2022 U.S. Midterm Elections Include Trolling, Narratives Surrounding Specific Races, Politicians](https://www.mandiant.com/resources/blog/information-operations-2022-midterm-elections)
 
+* Dec 19 - [[Nisos] Colombian Election Disinformation Networks – Identifying the Role of Paramilitary Groups](https://6068438.fs1.hubspotusercontent-na1.net/hubfs/6068438/colombian-election-disinformation-networks.pdf)
+
+* Dec 13 - [[Graphika & Stanford Internet Observatory] Bad Reputation: Suspected Russian Actors Leverage Alternative Tech Platforms in Continued Effort to Covertly Influence Right-Wing U.S. Audiences](https://public-assets.graphika.com/reports/graphika_stanford_report_bad_reputation.pdf)
+
 * Nov 10 - [[Google Threat Analysis Group] Prigozhin interests and Russian information operations](https://blog.google/threat-analysis-group/prigozhin-interests-and-russian-information-operations/)
 
 * Nov 03 - [[Graphika] Same Schmitz, Different Day](https://graphika.com/posts/same-schmitz-different-day)
