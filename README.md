@@ -4,6 +4,8 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2022
 
+* Dec 19 - [[Mandiant] Information Operations Targeting 2022 U.S. Midterm Elections Include Trolling, Narratives Surrounding Specific Races, Politicians](https://www.mandiant.com/resources/blog/information-operations-2022-midterm-elections)
+
 * Nov 10 - [[Google Threat Analysis Group] Prigozhin interests and Russian information operations](https://blog.google/threat-analysis-group/prigozhin-interests-and-russian-information-operations/)
 
 * Nov 03 - [[Graphika] Same Schmitz, Different Day](https://graphika.com/posts/same-schmitz-different-day)
