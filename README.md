@@ -5,6 +5,7 @@ Collection of reports on Influence Operation campaigns.
 
 * Feb 27 - [[Cardiff University] The Ghostwriter Campaign](https://www.cardiff.ac.uk/__data/assets/pdf_file/0005/2699483/Ghostwriter-Report-Final.pdf)
 
+* Feb 23 - [[Graphika] Deepfake It Till You Make It - Pro-Chinese Actors Promote AI-Generated Video Footage of Fictitious People in Online Influence Operation](https://public-assets.graphika.com/reports/graphika-report-deepfake-it-till-you-make-it.pdf)
 
 ## 2022
 
