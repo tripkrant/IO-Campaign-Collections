@@ -1,6 +1,10 @@
 # IO-Campaign-Collections
 Collection of reports on Influence Operation campaigns.
 
+## 2023
+
+* Feb 27 - [[Cardiff University] The Ghostwriter Campaign](https://www.cardiff.ac.uk/__data/assets/pdf_file/0005/2699483/Ghostwriter-Report-Final.pdf)
+
 
 ## 2022
 
