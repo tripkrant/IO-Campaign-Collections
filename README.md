@@ -3,6 +3,8 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2023
 
+* Apr 26 - [[Nisos] From Race to Bioweapons: Tracing Inauthentic Network Narratives to Pro-China Bloggers](https://6068438.fs1.hubspotusercontent-na1.net/hubfs/6068438/inauthentic-chinese-network-narratives.pdf)
+
 * Apr 26 - [[Australian Strategic Policy Institute] Gaming Public Opinion: The CCP’s increasingly sophisticated cyber-enabled influence operations](https://ad-aspi.s3.ap-southeast-2.amazonaws.com/2023-04/Gaming%20public%20opinion.pdf)
 
 * Feb 27 - [[Cardiff University] The Ghostwriter Campaign](https://www.cardiff.ac.uk/__data/assets/pdf_file/0005/2699483/Ghostwriter-Report-Final.pdf)
