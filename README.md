@@ -5,6 +5,8 @@ Collection of reports on Influence Operation campaigns.
 
 * May 04 - [[Nisos] Venezuelan Marketing Specialist Behind AI-Generated Journalists Linked to Known Disinformation Network](https://6068438.fs1.hubspotusercontent-na1.net/hubfs/6068438/ai-generated-venezuelan-disinformation-network.pdf)
 
+* May 03 - [[Meta] Meta’s Adversarial Threat Report, First Quarter 2023](https://about.fb.com/wp-content/uploads/2023/05/Meta-Quarterly-Adversarial-Threat-Report-Q1-2023.pdf)
+
 * May 02 - [[Microsoft Threat Intelligence] Iran turning to cyber-enabled influence operations for greater effect](https://www.microsoft.com/en-us/security/business/security-insider/wp-content/uploads/2023/05/Iran-turning-to-cyber-enabled-influence-operations-for-greater-effect-05022023.pdf)
 
 * May 02 - [[Nisos] Inauthentic Network Counters The Great Translation Movement](https://6068438.fs1.hubspotusercontent-na1.net/hubfs/6068438/inauthentic-network-translation-movement.pdf)
