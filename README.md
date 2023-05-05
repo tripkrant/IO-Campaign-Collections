@@ -3,6 +3,12 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2023
 
+* May 04 - [[Nisos] Venezuelan Marketing Specialist Behind AI-Generated Journalists Linked to Known Disinformation Network](https://6068438.fs1.hubspotusercontent-na1.net/hubfs/6068438/ai-generated-venezuelan-disinformation-network.pdf)
+
+* May 02 - [[Microsoft Threat Intelligence] Iran turning to cyber-enabled influence operations for greater effect](https://www.microsoft.com/en-us/security/business/security-insider/wp-content/uploads/2023/05/Iran-turning-to-cyber-enabled-influence-operations-for-greater-effect-05022023.pdf)
+
+* May 02 - [[Nisos] Inauthentic Network Counters The Great Translation Movement](https://6068438.fs1.hubspotusercontent-na1.net/hubfs/6068438/inauthentic-network-translation-movement.pdf)
+
 * Apr 26 - [[Nisos] From Race to Bioweapons: Tracing Inauthentic Network Narratives to Pro-China Bloggers](https://6068438.fs1.hubspotusercontent-na1.net/hubfs/6068438/inauthentic-chinese-network-narratives.pdf)
 
 * Apr 26 - [[Australian Strategic Policy Institute] Gaming Public Opinion: The CCP’s increasingly sophisticated cyber-enabled influence operations](https://ad-aspi.s3.ap-southeast-2.amazonaws.com/2023-04/Gaming%20public%20opinion.pdf)
