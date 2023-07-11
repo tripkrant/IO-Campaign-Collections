@@ -3,6 +3,8 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2023
 
+* Jul 11 - [[Nisos]Chinese State-Linked Information Operation Revealed Social Media Account Takeover Potential](https://6068438.fs1.hubspotusercontent-na1.net/hubfs/6068438/chinese-info-ops-account-takeover.pdf)
+
 * May 24 - [[Nisos] Election Manipulation as a Business Model](https://6068438.fs1.hubspotusercontent-na1.net/hubfs/6068438/election-manipulation-business-model.pdf)
 
 * May 04 - [[Nisos] Venezuelan Marketing Specialist Behind AI-Generated Journalists Linked to Known Disinformation Network](https://6068438.fs1.hubspotusercontent-na1.net/hubfs/6068438/ai-generated-venezuelan-disinformation-network.pdf)
