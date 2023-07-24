@@ -3,6 +3,8 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2023
 
+* Jul 24 - [[Mandiant] Pro-PRC HaiEnergy Campaign Exploits U.S. News Outlets via Newswire Services to Target U.S. Audiences; Evidence of Commissioned Protests in Washington, D.C.](https://www.mandiant.com/resources/blog/pro-prc-haienergy-us-news)
+
 * Jul 19 - [[VIGINUM] RRN: A Complex and Persistent Information Manipulation Campaign](https://www.sgdsn.gouv.fr/files/files/20230719_NP_VIGINUM_RAPPORT-CAMPAGNE-RRN_EN.pdf)
 
 * Jul 11 - [[Nisos] Chinese State-Linked Information Operation Revealed Social Media Account Takeover Potential](https://6068438.fs1.hubspotusercontent-na1.net/hubfs/6068438/chinese-info-ops-account-takeover.pdf)
