@@ -3,6 +3,8 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2023
 
+* Jul 19 - [[VIGINUM]RRN: A Complex and Persistent Information Manipulation Campaign(https://www.sgdsn.gouv.fr/files/files/20230719_NP_VIGINUM_RAPPORT-CAMPAGNE-RRN_EN.pdf)
+
 * Jul 11 - [[Nisos]Chinese State-Linked Information Operation Revealed Social Media Account Takeover Potential](https://6068438.fs1.hubspotusercontent-na1.net/hubfs/6068438/chinese-info-ops-account-takeover.pdf)
 
 * May 24 - [[Nisos] Election Manipulation as a Business Model](https://6068438.fs1.hubspotusercontent-na1.net/hubfs/6068438/election-manipulation-business-model.pdf)
