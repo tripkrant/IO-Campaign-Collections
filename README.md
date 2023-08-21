@@ -3,6 +3,8 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2023
 
+* Aug 21 - [[Graphika] Summit Old, Summit New - Russia-Linked Actors Leverage New and Old Tactics in Influence Operations Targeting Online Conversations About NATO Summit](https://public-assets.graphika.com/reports/graphika_report_summit_old_summit_new.pdf)
+
 * Jul 24 - [[Mandiant] Pro-PRC HaiEnergy Campaign Exploits U.S. News Outlets via Newswire Services to Target U.S. Audiences; Evidence of Commissioned Protests in Washington, D.C.](https://www.mandiant.com/resources/blog/pro-prc-haienergy-us-news)
 
 * Jul 19 - [[VIGINUM] RRN: A Complex and Persistent Information Manipulation Campaign](https://www.sgdsn.gouv.fr/files/files/20230719_NP_VIGINUM_RAPPORT-CAMPAGNE-RRN_EN.pdf)
