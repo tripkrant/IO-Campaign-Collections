@@ -3,6 +3,8 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2023
 
+* Sep 07 - [[Althea Group] Chinese Influence Operation Spreads to American Alt-Platforms](https://www.alethea.com/post/chinese-influence-operation-spreads-to-american-alt-platforms)
+
 * Aug 30 - [[Recorded Future] Empire Dragon Accelerates Covert Information Operations, Converges with Russian Narratives](https://go.recordedfuture.com/hubfs/reports/cta-2023-0830.pdf)
 
 * Aug 29 - [[Meta] Meta’s Adversarial Threat Report, Second Quarter 2023](https://scontent-lga3-1.xx.fbcdn.net/v/t39.8562-6/10000000_180063885098584_6098733693167598956_n.pdf?_nc_cat=110&ccb=1-7&_nc_sid=ae5e01&_nc_ohc=xfoti16XMyMAX_jDnpK&_nc_ht=scontent-lga3-1.xx&oh=00_AfC5bDHMlCJo1RLcQfH79xiyB-UfTyVu_s64wu7zlM5y0Q&oe=64F1F5AE)
