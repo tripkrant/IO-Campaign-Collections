@@ -3,6 +3,8 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2023
 
+* Dec 05 - [[Recorded Future] Obfuscation and AI Content in the Russian Influence Network “Doppelgänger” Signals Evolving Tactics](https://go.recordedfuture.com/hubfs/reports/ta-2023-1205.pdf)
+
 * Sep 07 - [[Althea Group] Chinese Influence Operation Spreads to American Alt-Platforms](https://www.alethea.com/post/chinese-influence-operation-spreads-to-american-alt-platforms)
 
 * Sep 07 - [[Microsoft Threat Analysis Center] Digital threats from East Asia increase in breadth and effectiveness](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1aFyW)
