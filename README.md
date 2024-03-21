@@ -3,6 +3,8 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2024
 
+* Feb 29 [[Recorded Future] Russia Seeks to Exploit Western "War Fatigue" to Win in Ukraine](https://go.recordedfuture.com/hubfs/reports/ta-2024-0229.pdf)
+
 * Feb 22 - [[SentinelOne] Doppelgänger | Russia-Aligned Influence Operation Targets Germany](https://www.sentinelone.com/labs/doppelganger-russia-aligned-influence-operation-targets-germany/)
 
 * Feb 21 - [[ESET] Operation Texonto: Information operation targeting Ukrainian speakers in the context of the war](https://www.welivesecurity.com/en/eset-research/operation-texonto-information-operation-targeting-ukrainian-speakers-context-war/)
