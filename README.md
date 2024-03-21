@@ -1,6 +1,12 @@
 # IO-Campaign-Collections
 Collection of reports on Influence Operation campaigns.
 
+## 2024
+
+* Feb 22 - [[SentinelOne] Doppelgänger | Russia-Aligned Influence Operation Targets Germany](https://www.sentinelone.com/labs/doppelganger-russia-aligned-influence-operation-targets-germany/)
+
+* Feb 21 - [[ESET] Operation Texonto: Information operation targeting Ukrainian speakers in the context of the war](https://www.welivesecurity.com/en/eset-research/operation-texonto-information-operation-targeting-ukrainian-speakers-context-war/)
+
 ## 2023
 
 * Dec 05 - [[Recorded Future] Obfuscation and AI Content in the Russian Influence Network “Doppelgänger” Signals Evolving Tactics](https://go.recordedfuture.com/hubfs/reports/ta-2023-1205.pdf)
