@@ -3,6 +3,10 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2024
 
+* Mar 28 - [[Mandiant] Life After Death? IO Campaigns Linked to Notorious Russian Businessman Prigozhin Persist After His Political Downfall and Death](https://cloud.google.com/blog/topics/threat-intelligence/io-campaigns-russian-prigozhin-persist/)
+
+* Mar 27 - [[Alethea] Writing with Invisible Ink: Russia's Newest Disinformation Tactic](https://www.alethea.com/post/writing-with-invisible-ink)
+
 * Feb 29 - [[Recorded Future] Russia Seeks to Exploit Western "War Fatigue" to Win in Ukraine](https://go.recordedfuture.com/hubfs/reports/ta-2024-0229.pdf)
 
 * Feb 22 - [[SentinelOne] Doppelgänger | Russia-Aligned Influence Operation Targets Germany](https://www.sentinelone.com/labs/doppelganger-russia-aligned-influence-operation-targets-germany/)
