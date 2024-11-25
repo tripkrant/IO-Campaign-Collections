@@ -3,6 +3,18 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2024
 
+* May 21 - [[Sekoia] Master of Puppets: Uncovering the DoppelGänger pro-Russian influence campaign(https://blog.sekoia.io/master-of-puppets-uncovering-the-doppelganger-pro-russian-influence-campaign/)
+
+* May 09 - [[Recorded Future] Russia-Linked CopyCop Uses LLMs to Weaponize Influence Content at Scale(https://go.recordedfuture.com/hubfs/reports/cta-2024-0509.pdf)
+
+* May 08 - [[Recorded Future] Iran-Aligned Emerald Divide Influence Campaign Evolves to Exploit Israel-Hamas Conflict](https://go.recordedfuture.com/hubfs/reports/ta-2024-0508.pdf)
+
+* Apr 17 - [[Microsoft Threat Analysis Center] Nation-states engage in US-focused influence operations ahead of US presidential election](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2024/04/MTAC-Report-Elections-Report-Nation-states-engage-in-US-focused-influence-operations-ahead-of-US-presidential-election-04172024.pdf)
+
+* Apr 16 - [[AI Forensics] No Embargo in Sight: Meta Lets Pro-Russia Propaganda Ads Flood the EU](https://aiforensics.org/uploads/No_Embargo_in_Sight_AI_Forensics_Report_ad7ede416b.pdf)
+
+* Apr 05 - [[Microsoft Threat Intelligence] Same targets, new playbooks: East Asia threat actors employ unique methods](https://aka.ms/EastAsiaReport-Apr2024)
+
 * Mar 28 - [[Mandiant] Life After Death? IO Campaigns Linked to Notorious Russian Businessman Prigozhin Persist After His Political Downfall and Death](https://cloud.google.com/blog/topics/threat-intelligence/io-campaigns-russian-prigozhin-persist/)
 
 * Mar 27 - [[Alethea] Writing with Invisible Ink: Russia's Newest Disinformation Tactic](https://www.alethea.com/post/writing-with-invisible-ink)
