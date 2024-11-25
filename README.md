@@ -15,7 +15,7 @@ Collection of reports on Influence Operation campaigns.
 
 * May 21 - [[Sekoia] Master of Puppets: Uncovering the DoppelGänger pro-Russian influence campaign](https://blog.sekoia.io/master-of-puppets-uncovering-the-doppelganger-pro-russian-influence-campaign/)
 
-* May 09 - [[Recorded Future] Russia-Linked CopyCop Uses LLMs to Weaponize Influence Content at Scale(https://go.recordedfuture.com/hubfs/reports/cta-2024-0509.pdf)
+* May 09 - [[Recorded Future] Russia-Linked CopyCop Uses LLMs to Weaponize Influence Content at Scale](https://go.recordedfuture.com/hubfs/reports/cta-2024-0509.pdf)
 
 * May 08 - [[Recorded Future] Iran-Aligned Emerald Divide Influence Campaign Evolves to Exploit Israel-Hamas Conflict](https://go.recordedfuture.com/hubfs/reports/ta-2024-0508.pdf)
 
