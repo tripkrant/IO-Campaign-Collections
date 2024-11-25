@@ -3,7 +3,17 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2024
 
-* May 21 - [[Sekoia] Master of Puppets: Uncovering the DoppelGänger pro-Russian influence campaign(https://blog.sekoia.io/master-of-puppets-uncovering-the-doppelganger-pro-russian-influence-campaign/)
+* Sep 17 - [[Microsoft Threat Intelligence] Russia leverages cyber proxies and Volga Flood assets in expansive influence efforts](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/MTAC-Election-Report-4.pdf)
+
+* Aug 13 - [[Redcorded Future] Malign Influence Threats Mount Ahead of US 2024 Elections](https://go.recordedfuture.com/hubfs/reports/ta-2024-0813.pdf)
+
+* Jun 28 - [[Recorded Future] Sombres Influences: Russian and Iranian Influence Networks Target French Elections](https://go.recordedfuture.com/hubfs/reports/TA-2024-0628.pdf)
+
+* Jun 24 - [[Recorded Future] Russia-Linked CopyCop Expands to Cover US Elections, Target Political Leaders](https://go.recordedfuture.com/hubfs/reports/cta-ru-2024-0624.pdf)
+
+* May 30 - [[OpenAI] Disrupting deceptive uses of AI by covert influence operations](https://downloads.ctfassets.net/kftzwdyauwt9/5IMxzTmUclSOAcWUXbkVrK/3cfab518e6b10789ab8843bcca18b633/Threat_Intel_Report.pdf)
+
+* May 21 - [[Sekoia] Master of Puppets: Uncovering the DoppelGänger pro-Russian influence campaign] (https://blog.sekoia.io/master-of-puppets-uncovering-the-doppelganger-pro-russian-influence-campaign/)
 
 * May 09 - [[Recorded Future] Russia-Linked CopyCop Uses LLMs to Weaponize Influence Content at Scale(https://go.recordedfuture.com/hubfs/reports/cta-2024-0509.pdf)
 
