@@ -13,7 +13,7 @@ Collection of reports on Influence Operation campaigns.
 
 * May 30 - [[OpenAI] Disrupting deceptive uses of AI by covert influence operations](https://downloads.ctfassets.net/kftzwdyauwt9/5IMxzTmUclSOAcWUXbkVrK/3cfab518e6b10789ab8843bcca18b633/Threat_Intel_Report.pdf)
 
-* May 21 - [[Sekoia] Master of Puppets: Uncovering the DoppelGänger pro-Russian influence campaign] (https://blog.sekoia.io/master-of-puppets-uncovering-the-doppelganger-pro-russian-influence-campaign/)
+* May 21 - [[Sekoia] Master of Puppets: Uncovering the DoppelGänger pro-Russian influence campaign](https://blog.sekoia.io/master-of-puppets-uncovering-the-doppelganger-pro-russian-influence-campaign/)
 
 * May 09 - [[Recorded Future] Russia-Linked CopyCop Uses LLMs to Weaponize Influence Content at Scale(https://go.recordedfuture.com/hubfs/reports/cta-2024-0509.pdf)
 
