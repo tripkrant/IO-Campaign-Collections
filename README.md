@@ -3,6 +3,8 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2024
 
+* Nov 26 - [[Recorded Future] "Operation Undercut" Shows Multifaceted Nature of SDA’s Influence Operations](https://go.recordedfuture.com/hubfs/reports/TA-RU-2024-1126.pdf)
+
 * Sep 17 - [[Microsoft Threat Intelligence] Russia leverages cyber proxies and Volga Flood assets in expansive influence efforts](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/MTAC-Election-Report-4.pdf)
 
 * Aug 13 - [[Redcorded Future] Malign Influence Threats Mount Ahead of US 2024 Elections](https://go.recordedfuture.com/hubfs/reports/ta-2024-0813.pdf)
