@@ -9,7 +9,7 @@ Collection of reports on Influence Operation campaigns.
   
 * Aug 24 - [[The Center for Countering Disinformation] Analytical Report «TigerWeb»](https://cpd.gov.ua/en/report/analytical-report-tigerweb/)
 
-* Aug 24 - [[Recorded Future] CopyCop Targets AI Investment in Armenia](https://www.recordedfuture.com/blog/copycop-targets-ai-investment)
+* Aug 18 - [[Recorded Future] CopyCop Targets AI Investment in Armenia](https://www.recordedfuture.com/blog/copycop-targets-ai-investment)
 
 * Jul 31 - [[Google Security] Influence Operations Bulletin Q2 2026](https://blog.google/security/influence-operations-bulletin-q2-2026/)
   
