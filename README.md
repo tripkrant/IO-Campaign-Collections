@@ -8,7 +8,9 @@ Collection of reports on Influence Operation campaigns.
 * Aug 25 - [[2026	Graphika] Umbrae Ex Machina: Mapping Russian Ghostwriting Operations Across African News Outlets](https://public-assets.graphika.com/reports/Public-Report_Umbrae-Ex-Machina.pdf)
   
 * Aug 24 - [[The Center for Countering Disinformation] Analytical Report «TigerWeb»](https://cpd.gov.ua/en/report/analytical-report-tigerweb/)
-  
+
+* Aug 24 - [[Recorded Future] CopyCop Targets AI Investment in Armenia](https://www.recordedfuture.com/blog/copycop-targets-ai-investment)
+
 * Jul 31 - [[Google Security] Influence Operations Bulletin Q2 2026](https://blog.google/security/influence-operations-bulletin-q2-2026/)
   
 * Jul 30 - [[Graphika] Ore Else: Spamouflage Targets Chile’s Copper Smuggling Coverage](https://www.graphika.com/reports/ore-else)
