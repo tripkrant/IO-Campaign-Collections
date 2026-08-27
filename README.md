@@ -3,6 +3,44 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2026
 
+* Aug 25 - [[OpenAI] Disrupting a new covert influence campaign from Russia](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/)
+  
+* Aug 25 - [[2026	Graphika] Umbrae Ex Machina: Mapping Russian Ghostwriting Operations Across African News Outlets](https://public-assets.graphika.com/reports/Public-Report_Umbrae-Ex-Machina.pdf)
+  
+* Aug 24 - [[The Center for Countering Disinformation] Analytical Report «TigerWeb»](https://cpd.gov.ua/en/report/analytical-report-tigerweb/)
+  
+* Jul 31 - [[Google Security] Influence Operations Bulletin Q2 2026](https://blog.google/security/influence-operations-bulletin-q2-2026/)
+  
+* Jul 30 - [[Graphika] Ore Else: Spamouflage Targets Chile’s Copper Smuggling Coverage](https://www.graphika.com/reports/ore-else)
+  
+* Jul 29 - [[Cyfluence Research Center] Counter-FIMI as FIMI: Russian Narrative Manipulation and Reputational Hijacking](https://www.cyfluence-research.org/post/counter-fimi-as-fimi-russian-narrative-manipulation-and-reputational-hijacking)
+  
+* Jul 07 - [[All Eyes on Wagner] The SVR Arms Politology with ChatGPT and Claude in the Central African Republic](https://alleyesonwagner.org/2026/07/07/the-svr-arms-politology-with-chatgpt-and-claude-in-the-central-african-republic/)
+  
+* Jun 10 - [[OpenAI] PRC-linked influence operations are targeting AI debates in the US](https://openai.com/index/prc-linked-influence-operations-ai-debates/)
+  
+* Jun 04 - [[EK Strategic Communications Center Report] The Kremlin’s 2026 Election Campaign In Armenia](https://ekstrategies.org/articles/the-kremlins-2026-election-campaign-in-armenia)
+  
+* May 12 - [[Cyfluence Research Center] From Pseudo-Research to Narrative Superiority: Mapping an Emerging PRC Influence Campaign in the South China Sea](https://www.cyfluence-research.org/post/from-pseudo-research-to-narrativesuperiority-mapping-an-emerging-prc-influencecampaign-in-the-south)
+  
+* May 08 - [[Google Security] Influence Operations Bulletin Q1 2026](https://blog.google/security/influence-operations-bulletin-q1-2026/)
+  
+* Apr 29 - [[Graphika] #PuppetMaster: How Breadcrumbs From Spamouflage-Linked Assets Led Us to an Accounts-for-Sale Service](https://www.graphika.com/reports/puppetmaster)
+  
+* Apr 28 - [[Doublethink Lab] Assessing the Borderless Group’s Activity on Threads](https://medium.com/doublethinklab/assessing-the-borderless-groups-activity-on-threads-69257a44ca82)
+  
+* Mar 04 - [[Doublethink Lab] The Rise of AI in PRC Influence Operations: Nine Takeaways from the GoLaxy Documents](https://medium.com/doublethinklab/the-rise-of-ai-in-prc-influence-operations-nine-takeaways-from-the-golaxy-documents-2d6617a753e5)
+  
+* Feb 27 - [[All Eyes on Wagner] Love Me Alone: Russia’s No-Rivals Doctrine](https://alleyesonwagner.org/2026/02/27/love-me-alone-russias-no-rivals-doctrine/)
+  
+* Feb 24 - [[Graphika] Everything Everywhere All at Once - Part 2: The Pro-Iran Playbook for Narrative Control](https://www.graphika.com/reports/everything-everywhere-all-at-once-part-2)
+  
+* Feb 20 - [[All Eyes on Wagner] Anatomy of Deception: Engineering Covert Influence Operations](https://alleyesonwagner.org/2026/02/20/anatomy-of-deception-engineering-covert-influence-operations/)
+  
+* Feb 14 - [[All Eyes on Wagner] A New Chef in the Kitchen: The SVR Takes Control of the Wagner’s influence branch for Offensive Operations in the Global South](https://alleyesonwagner.org/2026/02/14/a-new-chef-in-the-kitchen-the-svr-takes-control-of-the-wagners-influence-branch-for-offensive-operations-in-the-global-south/)
+  
+* Jan 13 - [[Graphika] Glass Onion: Peeling Back the Layers of a Pro-China Online Ecosystem](https://graphika.com/reports/glass-onion)
+
 ## 2025
 
 * Dec 16 - [[Graphika] Everything Everywhere All at Once: The Pro-Iran Playbook for Narrative Control 1](https://graphika.com/reports/everything-everywhere-all-at-once)
