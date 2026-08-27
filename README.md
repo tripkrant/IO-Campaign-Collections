@@ -1,6 +1,42 @@
 # IO-Campaign-Collections
 Collection of reports on Influence Operation campaigns.
 
+## 2026
+
+## 2025
+
+Dec 16 - [[Graphika] Everything Everywhere All at Once: The Pro-Iran Playbook for Narrative Control 1](https://graphika.com/reports/everything-everywhere-all-at-once)
+
+Sep 03 - [[Recorded Future] Russian Influence Assets Converge on Moldovan Elections](https://assets.recordedfuture.com/insikt-report-pdfs/2025/ta-ru-2025-0903.pdf)
+
+Sep 02 - [[Recorded Future] Influence Operations and Conflict Escalation in South Asia](https://assets.recordedfuture.com/insikt-report-pdfs/2025/cta-2025-0902.pdf)
+
+Aug 27 - [[Graphika] Falsos Amigos: Network of Domains and Social Media Accounts Uses AI Tools to Launder Reports From Chinese State Media Outlet CGTN in Multiple Languages](https://graphika.com/reports/falsos-amigos)
+
+Aug 10 - [[All Eyes on Wagner] After Wagner: Russia’s Spin Doctors Take Over in Africa](https://alleyesonwagner.org/2025/08/10/after-wagner-russias-spin-doctors-take-over-in-africa/)
+
+Jul 17 - [[Institute for Strategic Dialogue] Operation Overload’s underwhelming influence and evolving tactics](https://www.isdglobal.org/digital-dispatch/operation-overloads-underwhelming-influence-and-evolving-tactics/)
+
+Jun 12 - [[VIGINUM] African Initiative: From Public Diplomacy to Covert Influence Operations](https://www.sgdsn.gouv.fr/files/files/Publications/20250612_TLP-CLEAR_VIGINUM_FCDO_EEAS_Technical_Report_African_Initiative_EN.pdf)
+
+May 21 - [[Graphika] Tariff Tirade: China-Aligned Network Poses as Grassroots Voices in Effort to Covertly Boost Online Narratives Critical of US Tariffs and Trade Policies](https://graphika.com/reports/tariff-tirade)
+
+May 16 - [[Swedish Psychological Defence Agency] Beyond Operation Doppelgänger: A Capability Assessment of the Social Design Agency](https://mpf.se/download/18.7cffbee41969f6d83e115221/1747230166207/Beyond%20Operation%20Doppelganger.pdf)
+
+May 16 - [[GLOBESEC] Global Offensive: Mapping the Sources Behind the Pravda Network](https://www.globsec.org/sites/default/files/2025-05/Pravda%20Network%20Report.pdf)
+
+May 15 - [[Google Threat Analysis Group] TAG Bulletin: Q1 2025](https://blog.google/threat-analysis-group/tag-bulletin-q1-2025/)
+
+May 12 - [[Factcheck BY] Digital soldiers of disinformation: botnets on Belarusian YouTube](https://factcheck.by/eng/news/digital_soldiers_youtube_botnets/)
+
+May 06 - [[VIGINUM] Analysis of the Russian information manipulation set Storm-1516](https://www.sgdsn.gouv.fr/files/files/Publications/20250507_TLP-CLEAR_NP_SGDSN_VIGINUM_Technical%20report_Storm-1516.pdf)
+
+Apr 23 - [[Anthropic] Detecting and Countering Malicious Uses of Claude: March 2025](https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025)
+
+Feb 21 - [[OpenAI] Disrupting malicious uses of our models: an update February 2025](https://cdn.openai.com/threat-intelligence-reports/disrupting-malicious-uses-of-our-models-february-2025-update.pdf)
+
+Feb 13 - [[Recorded Future] Stimmen aus Moskau: Russian Influence Operations Target German Elections](https://go.recordedfuture.com/hubfs/reports/ta-ru-2025-0213.pdf)
+
 ## 2024
 
 * Nov 26 - [[Recorded Future] "Operation Undercut" Shows Multifaceted Nature of SDA’s Influence Operations](https://go.recordedfuture.com/hubfs/reports/TA-RU-2024-1126.pdf)
