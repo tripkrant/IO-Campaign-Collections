@@ -3,6 +3,8 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2026
 
+* Aug 28- [[Meta] Adversarial Threat Report: Second Half 2026](https://transparency.meta.com/sr/H2-2026-adversarial-threat-report/)
+
 * Aug 25 - [[OpenAI] Disrupting a new covert influence campaign from Russia](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/)
   
 * Aug 25 - [[2026	Graphika] Umbrae Ex Machina: Mapping Russian Ghostwriting Operations Across African News Outlets](https://public-assets.graphika.com/reports/Public-Report_Umbrae-Ex-Machina.pdf)
