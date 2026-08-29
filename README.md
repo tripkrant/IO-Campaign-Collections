@@ -20,6 +20,8 @@ Collection of reports on Influence Operation campaigns.
 * Jul 29 - [[Cyfluence Research Center] Counter-FIMI as FIMI: Russian Narrative Manipulation and Reputational Hijacking](https://www.cyfluence-research.org/post/counter-fimi-as-fimi-russian-narrative-manipulation-and-reputational-hijacking)
   
 * Jul 07 - [[All Eyes on Wagner] The SVR Arms Politology with ChatGPT and Claude in the Central African Republic](https://alleyesonwagner.org/2026/07/07/the-svr-arms-politology-with-chatgpt-and-claude-in-the-central-african-republic/)
+
+* Jun 29 - [[Google Threat Intelligence Group] The Bear Necessities: A Look at the Drivers, Dynamics, and Applications of the Pro-Russia Influence Ecosystem](https://cloud.google.com/blog/topics/threat-intelligence/pro-russia-influence-ecosystem)
   
 * Jun 10 - [[OpenAI] PRC-linked influence operations are targeting AI debates in the US](https://openai.com/index/prc-linked-influence-operations-ai-debates/)
   
