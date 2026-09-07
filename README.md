@@ -3,11 +3,13 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2026
 
-* Aug 28- [[Meta] Adversarial Threat Report: Second Half 2026](https://transparency.meta.com/sr/H2-2026-adversarial-threat-report/)
+* Sep 04 -  [[Institute for Strategic Dialogue] An old dog with no new tricks: Matryoshka targets regional elections in Germany](https://www.isdglobal.org/digital-dispatch/investigation-an-old-dog-with-no-new-tricks-matryoshka-targets-regional-elections-in-germany/)
+
+* Aug 28 - [[Meta] Adversarial Threat Report: Second Half 2026](https://transparency.meta.com/sr/H2-2026-adversarial-threat-report/)
 
 * Aug 25 - [[OpenAI] Disrupting a new covert influence campaign from Russia](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/)
   
-* Aug 25 - [[2026	Graphika] Umbrae Ex Machina: Mapping Russian Ghostwriting Operations Across African News Outlets](https://public-assets.graphika.com/reports/Public-Report_Umbrae-Ex-Machina.pdf)
+* Aug 25 - [[Graphika] Umbrae Ex Machina: Mapping Russian Ghostwriting Operations Across African News Outlets](https://public-assets.graphika.com/reports/Public-Report_Umbrae-Ex-Machina.pdf)
   
 * Aug 24 - [[The Center for Countering Disinformation] Analytical Report «TigerWeb»](https://cpd.gov.ua/en/report/analytical-report-tigerweb/)
 
