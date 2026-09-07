@@ -28,6 +28,8 @@ Collection of reports on Influence Operation campaigns.
 * Jun 10 - [[OpenAI] PRC-linked influence operations are targeting AI debates in the US](https://openai.com/index/prc-linked-influence-operations-ai-debates/)
   
 * Jun 04 - [[EK Strategic Communications Center Report] The Kremlin’s 2026 Election Campaign In Armenia](https://ekstrategies.org/articles/the-kremlins-2026-election-campaign-in-armenia)
+
+* May 27 - [[Institute for Strategic Dialogue] All operations on Armenia: Russia’s influence machine targets the vote](https://www.isdglobal.org/digital-dispatch/all-operations-on-armenia-russias-influence-machine-targets-the-vote/)
   
 * May 12 - [[Cyfluence Research Center] From Pseudo-Research to Narrative Superiority: Mapping an Emerging PRC Influence Campaign in the South China Sea](https://www.cyfluence-research.org/post/from-pseudo-research-to-narrativesuperiority-mapping-an-emerging-prc-influencecampaign-in-the-south)
   
@@ -94,6 +96,8 @@ Collection of reports on Influence Operation campaigns.
 * Jun 28 - [[Recorded Future] Sombres Influences: Russian and Iranian Influence Networks Target French Elections](https://go.recordedfuture.com/hubfs/reports/TA-2024-0628.pdf)
 
 * Jun 24 - [[Recorded Future] Russia-Linked CopyCop Expands to Cover US Elections, Target Political Leaders](https://go.recordedfuture.com/hubfs/reports/cta-ru-2024-0624.pdf)
+
+* Jun 02 - [[Microsoft Threat Analysis Center] How Russia is trying to disrupt the 2024 Paris Olympic Games](https://blogs.microsoft.com/on-the-issues/2024/06/02/russia-cyber-bots-disinformation-2024-paris-olympics/)
 
 * May 30 - [[OpenAI] Disrupting deceptive uses of AI by covert influence operations](https://downloads.ctfassets.net/kftzwdyauwt9/5IMxzTmUclSOAcWUXbkVrK/3cfab518e6b10789ab8843bcca18b633/Threat_Intel_Report.pdf)
 
