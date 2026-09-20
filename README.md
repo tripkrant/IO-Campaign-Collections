@@ -3,6 +3,10 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2026
 
+* Sep 17 - [[Citizen Lab] BlackCore’s Influence Operations for Hire](https://citizenlab.ca/research/blackcores-influence-operations-for-hire/)
+
+* Sep 10 - [[Anthropic] Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)
+
 * Sep 04 -  [[Institute for Strategic Dialogue] An old dog with no new tricks: Matryoshka targets regional elections in Germany](https://www.isdglobal.org/digital-dispatch/investigation-an-old-dog-with-no-new-tricks-matryoshka-targets-regional-elections-in-germany/)
 
 * Aug 28 - [[Meta] Adversarial Threat Report: Second Half 2026](https://transparency.meta.com/sr/H2-2026-adversarial-threat-report/)
