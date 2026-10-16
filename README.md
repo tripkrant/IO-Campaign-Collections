@@ -73,6 +73,8 @@ Collection of reports on Influence Operation campaigns.
 
 * Jul 17 - [[Institute for Strategic Dialogue] Operation Overload’s underwhelming influence and evolving tactics](https://www.isdglobal.org/digital-dispatch/operation-overloads-underwhelming-influence-and-evolving-tactics/)
 
+* Jun 26 - [[Operation Overload: More Platforms, New Techniques, Powered by AI](https://checkfirst.network/wp-content/uploads/2025/06/Overload%C2%A02_%20Main%20Draft%20Report_compressed.pdf)
+
 * Jun 12 - [[VIGINUM] African Initiative: From Public Diplomacy to Covert Influence Operations](https://www.sgdsn.gouv.fr/files/files/Publications/20250612_TLP-CLEAR_VIGINUM_FCDO_EEAS_Technical_Report_African_Initiative_EN.pdf)
 
 * May 21 - [[Graphika] Tariff Tirade: China-Aligned Network Poses as Grassroots Voices in Effort to Covertly Boost Online Narratives Critical of US Tariffs and Trade Policies](https://graphika.com/reports/tariff-tirade)
@@ -92,6 +94,8 @@ Collection of reports on Influence Operation campaigns.
 * Feb 21 - [[OpenAI] Disrupting malicious uses of our models: an update February 2025](https://cdn.openai.com/threat-intelligence-reports/disrupting-malicious-uses-of-our-models-february-2025-update.pdf)
 
 * Feb 13 - [[Recorded Future] Stimmen aus Moskau: Russian Influence Operations Target German Elections](https://go.recordedfuture.com/hubfs/reports/ta-ru-2025-0213.pdf)
+
+* Jan 17 - [[CheckFirst] Influence by Design: Doppelgänger, Sanctions, Meta and the Social Design Agency](https://checkfirst.network/wp-content/uploads/2025/01/Influence_by_Design.pdf)
 
 ## 2024
 
