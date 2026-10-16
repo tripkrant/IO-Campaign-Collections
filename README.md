@@ -30,6 +30,8 @@ Collection of reports on Influence Operation campaigns.
 * Jul 07 - [[All Eyes on Wagner] The SVR Arms Politology with ChatGPT and Claude in the Central African Republic](https://alleyesonwagner.org/2026/07/07/the-svr-arms-politology-with-chatgpt-and-claude-in-the-central-african-republic/)
 
 * Jun 29 - [[Google Threat Intelligence Group] The Bear Necessities: A Look at the Drivers, Dynamics, and Applications of the Pro-Russia Influence Ecosystem](https://cloud.google.com/blog/topics/threat-intelligence/pro-russia-influence-ecosystem)
+
+* Jun 11 - [[VIGINUM] Rokh Solis: Analysis of an Information Manipulation Set Targeting the March 2026 Municipal Elections](https://www.sgdsn.gouv.fr/files/files/viginum/SGDSN_VIGINUM_Technical-Report_Rokh-Solis.pdf)
   
 * Jun 10 - [[OpenAI] PRC-linked influence operations are targeting AI debates in the US](https://openai.com/index/prc-linked-influence-operations-ai-debates/)
   
