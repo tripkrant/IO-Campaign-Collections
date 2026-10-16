@@ -3,6 +3,8 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2026
 
+* Oct 08 - [[OpenAI] Disrupting AI-enabled “false front” operations](https://openai.com/index/disrupting-ai-enabled-false-front-operations/)
+
 * Sep 17 - [[Citizen Lab] BlackCore’s Influence Operations for Hire](https://citizenlab.ca/research/blackcores-influence-operations-for-hire/)
 
 * Sep 10 - [[Anthropic] Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)
