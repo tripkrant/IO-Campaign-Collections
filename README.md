@@ -99,11 +99,15 @@ Collection of reports on Influence Operation campaigns.
 
 * Sep 17 - [[Microsoft Threat Intelligence] Russia leverages cyber proxies and Volga Flood assets in expansive influence efforts](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/MTAC-Election-Report-4.pdf)
 
+* Sep 12 - [[CheckFirst] Operation Overload: A Growing Disinformation Threat Now Targeting the U.S. Presidential Election](https://checkfirst.network/wp-content/uploads/2024/09/Operation_Overload_Activity_Update_September_2024.pdf)
+
 * Aug 13 - [[Redcorded Future] Malign Influence Threats Mount Ahead of US 2024 Elections](https://go.recordedfuture.com/hubfs/reports/ta-2024-0813.pdf)
 
 * Jun 28 - [[Recorded Future] Sombres Influences: Russian and Iranian Influence Networks Target French Elections](https://go.recordedfuture.com/hubfs/reports/TA-2024-0628.pdf)
 
 * Jun 24 - [[Recorded Future] Russia-Linked CopyCop Expands to Cover US Elections, Target Political Leaders](https://go.recordedfuture.com/hubfs/reports/cta-ru-2024-0624.pdf)
+
+* Jun 04 - [[CheckFirst] Operation Overload: how pro-Russian actors flood newsrooms with fake content and seek to divert their efforts](https://checkfirst.network/wp-content/uploads/2024/06/Operation_Overload_WEB.pdf)
 
 * Jun 02 - [[Microsoft Threat Analysis Center] How Russia is trying to disrupt the 2024 Paris Olympic Games](https://blogs.microsoft.com/on-the-issues/2024/06/02/russia-cyber-bots-disinformation-2024-paris-olympics/)
 
