@@ -29,11 +29,15 @@ Collection of reports on Influence Operation campaigns.
   
 * Jul 07 - [[All Eyes on Wagner] The SVR Arms Politology with ChatGPT and Claude in the Central African Republic](https://alleyesonwagner.org/2026/07/07/the-svr-arms-politology-with-chatgpt-and-claude-in-the-central-african-republic/)
 
+* Jul 02 - [[CheckFirst] Roska Bridge: How a pro-Russian IMS exploits vulnerabilities of decentralised platforms to spread propaganda](https://checkfirst.network/wp-content/uploads/2026/07/Roska_bridge_11.pdf)
+
 * Jun 29 - [[Google Threat Intelligence Group] The Bear Necessities: A Look at the Drivers, Dynamics, and Applications of the Pro-Russia Influence Ecosystem](https://cloud.google.com/blog/topics/threat-intelligence/pro-russia-influence-ecosystem)
 
 * Jun 11 - [[VIGINUM] Rokh Solis: Analysis of an Information Manipulation Set Targeting the March 2026 Municipal Elections](https://www.sgdsn.gouv.fr/files/files/viginum/SGDSN_VIGINUM_Technical-Report_Rokh-Solis.pdf)
   
 * Jun 10 - [[OpenAI] PRC-linked influence operations are targeting AI debates in the US](https://openai.com/index/prc-linked-influence-operations-ai-debates/)
+
+* Jun 10 - [[CheckFirst] Noise without effect: anti-Pashinyan disinformation on the rise ahead of Armenian parliamentary elections](https://checkfirst.network/wp-content/uploads/2026/06/NOISE_WITHOUT_EFFECT_11.pdf)
   
 * Jun 04 - [[EK Strategic Communications Center Report] The Kremlin’s 2026 Election Campaign In Armenia](https://ekstrategies.org/articles/the-kremlins-2026-election-campaign-in-armenia)
 
@@ -73,7 +77,7 @@ Collection of reports on Influence Operation campaigns.
 
 * Jul 17 - [[Institute for Strategic Dialogue] Operation Overload’s underwhelming influence and evolving tactics](https://www.isdglobal.org/digital-dispatch/operation-overloads-underwhelming-influence-and-evolving-tactics/)
 
-* Jun 26 - [[Operation Overload: More Platforms, New Techniques, Powered by AI](https://checkfirst.network/wp-content/uploads/2025/06/Overload%C2%A02_%20Main%20Draft%20Report_compressed.pdf)
+* Jun 26 - [[CheckFirst] Operation Overload: More Platforms, New Techniques, Powered by AI](https://checkfirst.network/wp-content/uploads/2025/06/Overload%C2%A02_%20Main%20Draft%20Report_compressed.pdf)
 
 * Jun 12 - [[VIGINUM] African Initiative: From Public Diplomacy to Covert Influence Operations](https://www.sgdsn.gouv.fr/files/files/Publications/20250612_TLP-CLEAR_VIGINUM_FCDO_EEAS_Technical_Report_African_Initiative_EN.pdf)
 
@@ -90,6 +94,10 @@ Collection of reports on Influence Operation campaigns.
 * May 06 - [[VIGINUM] Analysis of the Russian information manipulation set Storm-1516](https://www.sgdsn.gouv.fr/files/files/Publications/20250507_TLP-CLEAR_NP_SGDSN_VIGINUM_Technical%20report_Storm-1516.pdf)
 
 * Apr 23 - [[Anthropic] Detecting and Countering Malicious Uses of Claude: March 2025](https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025)
+
+* Mar 12 - [[DFRLab] Russia-linked Pravda network cited on Wikipedia, LLMs, and X](https://dfrlab.org/2025/03/12/pravda-network-wikipedia-llm-x/)
+
+* Feb 24 - [[DFRLab] Russia’s so-called “Pravda” network expands worldwide](https://dfrlab.org/2025/02/24/russia-pravda-network-expands-worldwide/)
 
 * Feb 21 - [[OpenAI] Disrupting malicious uses of our models: an update February 2025](https://cdn.openai.com/threat-intelligence-reports/disrupting-malicious-uses-of-our-models-february-2025-update.pdf)
 
