@@ -7,6 +7,8 @@ Collection of reports on Influence Operation campaigns.
 
 * Sep 17 - [[Citizen Lab] BlackCore’s Influence Operations for Hire](https://citizenlab.ca/research/blackcores-influence-operations-for-hire/)
 
+* Sep 17 - [[DFRLab] Storm-1516 operation targets the Baltic states](https://dfrlab.org/2026/09/17/storm-1516-operation-targets-the-baltic-states/)
+
 * Sep 10 - [[Anthropic] Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)
 
 * Sep 04 -  [[Institute for Strategic Dialogue] An old dog with no new tricks: Matryoshka targets regional elections in Germany](https://www.isdglobal.org/digital-dispatch/investigation-an-old-dog-with-no-new-tricks-matryoshka-targets-regional-elections-in-germany/)
@@ -24,6 +26,8 @@ Collection of reports on Influence Operation campaigns.
 * Jul 31 - [[Google Security] Influence Operations Bulletin Q2 2026](https://blog.google/security/influence-operations-bulletin-q2-2026/)
   
 * Jul 30 - [[Graphika] Ore Else: Spamouflage Targets Chile’s Copper Smuggling Coverage](https://www.graphika.com/reports/ore-else)
+
+* Jul 29 - [[DFRLab] Uncovering the digital infrastructure behind Russian interference in Armenian elections](https://dfrlab.org/2026/07/29/uncovering-the-digital-infrastructure-behind-russian-interference-in-armenian-elections/)
   
 * Jul 29 - [[Cyfluence Research Center] Counter-FIMI as FIMI: Russian Narrative Manipulation and Reputational Hijacking](https://www.cyfluence-research.org/post/counter-fimi-as-fimi-russian-narrative-manipulation-and-reputational-hijacking)
   
@@ -50,6 +54,10 @@ Collection of reports on Influence Operation campaigns.
 * Apr 29 - [[Graphika] #PuppetMaster: How Breadcrumbs From Spamouflage-Linked Assets Led Us to an Accounts-for-Sale Service](https://www.graphika.com/reports/puppetmaster)
   
 * Apr 28 - [[Doublethink Lab] Assessing the Borderless Group’s Activity on Threads](https://medium.com/doublethinklab/assessing-the-borderless-groups-activity-on-threads-69257a44ca82)
+
+* Apr 24 - [[DFRLab] China-linked Spamouflage targets Tibetan parliament-in-exile elections](https://dfrlab.org/2026/04/24/china-linked-spamouflage-targets-tibetan-parliament-in-exile-elections/)
+
+* Mar 31 - [[DFRLab] Polskanews.org: a foreign influence operation masquerading as Polish news](https://dfrlab.org/2026/03/31/polskanews-org-a-foreign-influence-operation-masquerading-as-polish-news/)
   
 * Mar 04 - [[Doublethink Lab] The Rise of AI in PRC Influence Operations: Nine Takeaways from the GoLaxy Documents](https://medium.com/doublethinklab/the-rise-of-ai-in-prc-influence-operations-nine-takeaways-from-the-golaxy-documents-2d6617a753e5)
   
@@ -100,6 +108,8 @@ Collection of reports on Influence Operation campaigns.
 * Feb 24 - [[DFRLab] Russia’s so-called “Pravda” network expands worldwide](https://dfrlab.org/2025/02/24/russia-pravda-network-expands-worldwide/)
 
 * Feb 21 - [[OpenAI] Disrupting malicious uses of our models: an update February 2025](https://cdn.openai.com/threat-intelligence-reports/disrupting-malicious-uses-of-our-models-february-2025-update.pdf)
+
+* Feb 14 - [[VIGINUM] War in Ukraine: Three years of Russian information operations](https://www.sgdsn.gouv.fr/files/2025-02/20250224_TLP-CLEAR_NP_SGDSN_VIGINUM_War%20in%20Ukraine_Three%20years%20of%20Russian%20information%20operations_1.0_VF.pdf)
 
 * Feb 13 - [[Recorded Future] Stimmen aus Moskau: Russian Influence Operations Target German Elections](https://go.recordedfuture.com/hubfs/reports/ta-ru-2025-0213.pdf)
 
@@ -336,6 +346,10 @@ Collection of reports on Influence Operation campaigns.
 * [[Atlantic Council] SCOTCH: A Framework for Rapidly Assessing Influence Operations](https://www.atlanticcouncil.org/blogs/geotech-cues/scotch-a-framework-for-rapidly-assessing-influence-operations/)
 
 * [[Brookings] The Breakout Scale: Measuring the Impact of Influence Operations](https://www.brookings.edu/wp-content/uploads/2020/09/Nimmo_influence_operations_PDF.pdf)
+
+* [[VIGINUM] Definitions and Objectives of the Concept of "Information Manipulation Set" (IMS)](https://www.sgdsn.gouv.fr/files/files/Publications/20260122_NP_TLP-CLEAR_SGDSN_VIGINUM_IMS_0.pdf)
+
+* [[EU Disinfo Lab] Building a common operational picture of FIMI: Using IMS to strengthen technical attribution and disruption](https://www.disinfo.eu/wp-content/uploads/2026/01/20260115_building-a-common-operational-picture-of-FIMI_01.pdf)
 
 * [[Francois] Disinformation ABC (+D)](https://science.house.gov/imo/media/doc/Francois%20Addendum%20to%20Testimony%20-%20ABC_Framework_2019_Sept_2019.pdf)
 
