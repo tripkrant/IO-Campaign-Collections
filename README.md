@@ -17,6 +17,8 @@ Collection of reports on Influence Operation campaigns.
 
 * Aug 28 - [[Meta] Adversarial Threat Report: Second Half 2026](https://transparency.meta.com/sr/H2-2026-adversarial-threat-report/)
 
+* Aug 26 - [[Alliance4Europe] Illegal Russian influence operation continues to go unimpeded on X: Matryoshka targeting the Swedish Elections](https://alliance4europe.eu/report/matryoshka-swedish-elections-2026)
+
 * Aug 25 - [[OpenAI] Disrupting a new covert influence campaign from Russia](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/)
   
 * Aug 25 - [[Graphika] Umbrae Ex Machina: Mapping Russian Ghostwriting Operations Across African News Outlets](https://public-assets.graphika.com/reports/Public-Report_Umbrae-Ex-Machina.pdf)
@@ -83,7 +85,9 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2025
 
-* Dec 16 - [[Graphika] Everything Everywhere All at Once: The Pro-Iran Playbook for Narrative Control 1](https://graphika.com/reports/everything-everywhere-all-at-once)
+* Dec 16 - [[Graphika] Everything Everywhere All at Once: The Pro-Iran Playbook for Narrative Control](https://graphika.com/reports/everything-everywhere-all-at-once)
+
+* Sep 25 - [[Alliance4Europe] Still marching on(line): How R-FBI Targets Moldova’s Elections](https://alliance4europe.eu/report/fbi-targets-moldova-elections)
 
 * Sep 03 - [[Recorded Future] Russian Influence Assets Converge on Moldovan Elections](https://assets.recordedfuture.com/insikt-report-pdfs/2025/ta-ru-2025-0903.pdf)
 
@@ -99,6 +103,8 @@ Collection of reports on Influence Operation campaigns.
 
 * Jun 12 - [[VIGINUM] African Initiative: From Public Diplomacy to Covert Influence Operations](https://www.sgdsn.gouv.fr/files/files/Publications/20250612_TLP-CLEAR_VIGINUM_FCDO_EEAS_Technical_Report_African_Initiative_EN.pdf)
 
+* May 30 - [[Alliance4Europe] The Masquerade Continues: Doppelgänger Interferes with Polish Elections](https://alliance4europe.eu/report/the-masquerade-continues-doppelganger-interferes-with-polish-elections)
+
 * May 21 - [[Graphika] Tariff Tirade: China-Aligned Network Poses as Grassroots Voices in Effort to Covertly Boost Online Narratives Critical of US Tariffs and Trade Policies](https://graphika.com/reports/tariff-tirade)
 
 * May 16 - [[Swedish Psychological Defence Agency] Beyond Operation Doppelgänger: A Capability Assessment of the Social Design Agency](https://mpf.se/download/18.7cffbee41969f6d83e115221/1747230166207/Beyond%20Operation%20Doppelganger.pdf)
@@ -113,6 +119,8 @@ Collection of reports on Influence Operation campaigns.
 
 * Apr 23 - [[Anthropic] Detecting and Countering Malicious Uses of Claude: March 2025](https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025)
 
+* Apr 17 - [[Alliance4Europe] Illegal Doppelganger Operation: Targeting the Polish Elections](https://alliance4europe.eu/doppelganger-poland-elections)
+
 * Mar 12 - [[DFRLab] Russia-linked Pravda network cited on Wikipedia, LLMs, and X](https://dfrlab.org/2025/03/12/pravda-network-wikipedia-llm-x/)
 
 * Feb 24 - [[DFRLab] Russia’s so-called “Pravda” network expands worldwide](https://dfrlab.org/2025/02/24/russia-pravda-network-expands-worldwide/)
@@ -123,9 +131,13 @@ Collection of reports on Influence Operation campaigns.
 
 * Feb 13 - [[Recorded Future] Stimmen aus Moskau: Russian Influence Operations Target German Elections](https://go.recordedfuture.com/hubfs/reports/ta-ru-2025-0213.pdf)
 
+* Jan 27 - [[Alliance4Europe] Sky’s the Limit – Russian Influence Operation Doppelgänger Expands to Bluesky](https://alliance4europe.eu/report/skys-the-limit-russian-influence-operation-doppelganger-expands-to-bluesky)
+
 * Jan 17 - [[CheckFirst] Influence by Design: Doppelgänger, Sanctions, Meta and the Social Design Agency](https://checkfirst.network/wp-content/uploads/2025/01/Influence_by_Design.pdf)
 
 ## 2024
+
+* Dec 18 - [[Alliance4Europe]Storm-1516 and R-FBI: Russian Attempts to Interfere in the German Election](https://alliance4europe.eu/report/storm-1516-and-r-fbi-russian-attempts-to-interfere-in-the-german-election)
 
 * Nov 26 - [[Recorded Future] "Operation Undercut" Shows Multifaceted Nature of SDA’s Influence Operations](https://go.recordedfuture.com/hubfs/reports/TA-RU-2024-1126.pdf)
 
@@ -134,6 +146,8 @@ Collection of reports on Influence Operation campaigns.
 * Sep 17 - [[Microsoft Threat Intelligence] Russia leverages cyber proxies and Volga Flood assets in expansive influence efforts](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/MTAC-Election-Report-4.pdf)
 
 * Sep 12 - [[CheckFirst] Operation Overload: A Growing Disinformation Threat Now Targeting the U.S. Presidential Election](https://checkfirst.network/wp-content/uploads/2024/09/Operation_Overload_Activity_Update_September_2024.pdf)
+
+* Sep 03 - [[Alliance4Europe] Fool Me Once: Russian Influence Operation Doppelganger Continues on X and Facebook](https://alliance4europe.eu/report/fool-me-once-russian-influence-operation-doppelganger-continues-on-x-and-facebook)
 
 * Aug 13 - [[Redcorded Future] Malign Influence Threats Mount Ahead of US 2024 Elections](https://go.recordedfuture.com/hubfs/reports/ta-2024-0813.pdf)
 
