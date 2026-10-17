@@ -59,9 +59,11 @@ Collection of reports on Influence Operation campaigns.
 
 * Apr 24 - [[DFRLab] China-linked Spamouflage targets Tibetan parliament-in-exile elections](https://dfrlab.org/2026/04/24/china-linked-spamouflage-targets-tibetan-parliament-in-exile-elections/)
 
-* Apr 10 - [[Clemson - Watt Family Innovation Center Media Forensics Hub] Hungary for more for more? Russian Storm-1516 narratives and engagement tactics targeting Hungary’s 2026 parliamentary election](https://open.clemson.edu/cgi/viewcontent.cgi?article=1010&context=mfh_reports)
+* Apr 10 - [[Clemson Media Forensics Hub] Hungary for more for more? Russian Storm-1516 narratives and engagement tactics targeting Hungary’s 2026 parliamentary election](https://open.clemson.edu/cgi/viewcontent.cgi?article=1010&context=mfh_reports)
 
 * Mar 31 - [[DFRLab] Polskanews.org: a foreign influence operation masquerading as Polish news](https://dfrlab.org/2026/03/31/polskanews-org-a-foreign-influence-operation-masquerading-as-polish-news/)
+
+* Mar 11 - [[Clemson Media Forensics Hub] From Texas to Tehran: A Multilingual, IRGC-affiliated Influence Operation on X, Instagram, and Bluesky](https://open.clemson.edu/cgi/viewcontent.cgi?article=1009&context=mfh_reports)
   
 * Mar 04 - [[Doublethink Lab] The Rise of AI in PRC Influence Operations: Nine Takeaways from the GoLaxy Documents](https://medium.com/doublethinklab/the-rise-of-ai-in-prc-influence-operations-nine-takeaways-from-the-golaxy-documents-2d6617a753e5)
   
@@ -72,6 +74,8 @@ Collection of reports on Influence Operation campaigns.
 * Feb 20 - [[All Eyes on Wagner] Anatomy of Deception: Engineering Covert Influence Operations](https://alleyesonwagner.org/2026/02/20/anatomy-of-deception-engineering-covert-influence-operations/)
   
 * Feb 14 - [[All Eyes on Wagner] A New Chef in the Kitchen: The SVR Takes Control of the Wagner’s influence branch for Offensive Operations in the Global South](https://alleyesonwagner.org/2026/02/14/a-new-chef-in-the-kitchen-the-svr-takes-control-of-the-wagners-influence-branch-for-offensive-operations-in-the-global-south/)
+
+* Feb 02 - [[Clemson Media Forensics Hub] A New Brood: The Return of China's Green Cicada(https://open.clemson.edu/cgi/viewcontent.cgi?article=1008&context=mfh_reports)
   
 * Jan 13 - [[Graphika] Glass Onion: Peeling Back the Layers of a Pro-China Online Ecosystem](https://graphika.com/reports/glass-onion)
 
