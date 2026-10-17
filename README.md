@@ -121,6 +121,8 @@ Collection of reports on Influence Operation campaigns.
 
 * Nov 26 - [[Recorded Future] "Operation Undercut" Shows Multifaceted Nature of SDA’s Influence Operations](https://go.recordedfuture.com/hubfs/reports/TA-RU-2024-1126.pdf)
 
+* Oct 01 - [[Alethea] Stormkiller: A Russian IO Coverup](https://alethea.com/hubfs/Alethea%20-%20Stormkiller%20Report.pdf)
+
 * Sep 17 - [[Microsoft Threat Intelligence] Russia leverages cyber proxies and Volga Flood assets in expansive influence efforts](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/MTAC-Election-Report-4.pdf)
 
 * Sep 12 - [[CheckFirst] Operation Overload: A Growing Disinformation Threat Now Targeting the U.S. Presidential Election](https://checkfirst.network/wp-content/uploads/2024/09/Operation_Overload_Activity_Update_September_2024.pdf)
