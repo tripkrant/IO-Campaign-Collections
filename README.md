@@ -141,6 +141,10 @@ Collection of reports on Influence Operation campaigns.
 
 * Nov 26 - [[Recorded Future] "Operation Undercut" Shows Multifaceted Nature of SDA’s Influence Operations](https://go.recordedfuture.com/hubfs/reports/TA-RU-2024-1126.pdf)
 
+* Oct 30 - [[Clemson Media Forensics Hub] Writers of the Storm: Who's Behind the Ongoing Production of Pro-Russian False Narratives](https://open.clemson.edu/cgi/viewcontent.cgi?article=1009&context=mfh_ci_reports)
+
+* Oct 14 - [[Clemson Media Forensics Hub] Hub Brief: Spamouflage Targeting of U.S. Senator Marco Rubio](https://open.clemson.edu/cgi/viewcontent.cgi?article=1007&context=mfh_reports)
+
 * Oct 01 - [[Alethea] Stormkiller: A Russian IO Coverup](https://alethea.com/hubfs/Alethea%20-%20Stormkiller%20Report.pdf)
 
 * Sep 17 - [[Microsoft Threat Intelligence] Russia leverages cyber proxies and Volga Flood assets in expansive influence efforts](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/MTAC-Election-Report-4.pdf)
@@ -150,6 +154,8 @@ Collection of reports on Influence Operation campaigns.
 * Sep 03 - [[Alliance4Europe] Fool Me Once: Russian Influence Operation Doppelganger Continues on X and Facebook](https://alliance4europe.eu/report/fool-me-once-russian-influence-operation-doppelganger-continues-on-x-and-facebook)
 
 * Aug 13 - [[Redcorded Future] Malign Influence Threats Mount Ahead of US 2024 Elections](https://go.recordedfuture.com/hubfs/reports/ta-2024-0813.pdf)
+
+* Aug 13 - [[CyberCX] Green Cicada Network: Emerging X (Twitter) inauthentic account network powered by generative AI](https://connect.cybercx.com.au/Intelligence-Update-CCX-IU-2024-004)
 
 * Jun 28 - [[Recorded Future] Sombres Influences: Russian and Iranian Influence Networks Target French Elections](https://go.recordedfuture.com/hubfs/reports/TA-2024-0628.pdf)
 
