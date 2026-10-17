@@ -75,7 +75,7 @@ Collection of reports on Influence Operation campaigns.
   
 * Feb 14 - [[All Eyes on Wagner] A New Chef in the Kitchen: The SVR Takes Control of the Wagner’s influence branch for Offensive Operations in the Global South](https://alleyesonwagner.org/2026/02/14/a-new-chef-in-the-kitchen-the-svr-takes-control-of-the-wagners-influence-branch-for-offensive-operations-in-the-global-south/)
 
-* Feb 02 - [[Clemson Media Forensics Hub] A New Brood: The Return of China's Green Cicada(https://open.clemson.edu/cgi/viewcontent.cgi?article=1008&context=mfh_reports)
+* Feb 02 - [[Clemson Media Forensics Hub] A New Brood: The Return of China's Green Cicada](https://open.clemson.edu/cgi/viewcontent.cgi?article=1008&context=mfh_reports)
   
 * Jan 13 - [[Graphika] Glass Onion: Peeling Back the Layers of a Pro-China Online Ecosystem](https://graphika.com/reports/glass-onion)
 
