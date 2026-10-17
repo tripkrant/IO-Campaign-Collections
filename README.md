@@ -59,6 +59,8 @@ Collection of reports on Influence Operation campaigns.
 
 * Apr 24 - [[DFRLab] China-linked Spamouflage targets Tibetan parliament-in-exile elections](https://dfrlab.org/2026/04/24/china-linked-spamouflage-targets-tibetan-parliament-in-exile-elections/)
 
+* Apr 10 - [[Clemson - Watt Family Innovation Center Media Forensics Hub] Hungary for more for more? Russian Storm-1516 narratives and engagement tactics targeting Hungary’s 2026 parliamentary election](https://open.clemson.edu/cgi/viewcontent.cgi?article=1010&context=mfh_reports)
+
 * Mar 31 - [[DFRLab] Polskanews.org: a foreign influence operation masquerading as Polish news](https://dfrlab.org/2026/03/31/polskanews-org-a-foreign-influence-operation-masquerading-as-polish-news/)
   
 * Mar 04 - [[Doublethink Lab] The Rise of AI in PRC Influence Operations: Nine Takeaways from the GoLaxy Documents](https://medium.com/doublethinklab/the-rise-of-ai-in-prc-influence-operations-nine-takeaways-from-the-golaxy-documents-2d6617a753e5)
@@ -352,6 +354,8 @@ Collection of reports on Influence Operation campaigns.
 * [[Brookings] The Breakout Scale: Measuring the Impact of Influence Operations](https://www.brookings.edu/wp-content/uploads/2020/09/Nimmo_influence_operations_PDF.pdf)
 
 * [[VIGINUM] Definitions and Objectives of the Concept of "Information Manipulation Set" (IMS)](https://www.sgdsn.gouv.fr/files/files/Publications/20260122_NP_TLP-CLEAR_SGDSN_VIGINUM_IMS_0.pdf)
+
+* [[VIGINUM]Leveraging OpenCTI to combat Foreign Information Manipulation and Interference: A Practical Guide - Part 1: Create and enrich knowledge](https://www.sgdsn.gouv.fr/files/2025-04/20250415_NP_SGDSN_VIGINUM_DoctrineOpenCTI_versionENG.pdf)
 
 * [[EU Disinfo Lab] Building a common operational picture of FIMI: Using IMS to strengthen technical attribution and disruption](https://www.disinfo.eu/wp-content/uploads/2026/01/20260115_building-a-common-operational-picture-of-FIMI_01.pdf)
 
