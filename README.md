@@ -141,6 +141,8 @@ Collection of reports on Influence Operation campaigns.
 
 * Nov 26 - [[Recorded Future] "Operation Undercut" Shows Multifaceted Nature of SDA’s Influence Operations](https://go.recordedfuture.com/hubfs/reports/TA-RU-2024-1126.pdf)
 
+* Nov 13 - [[Qurium Media Foundation] When Kehr meets VexTrio: Cloaking for disinformation and online scams](https://www.qurium.org/forensics/when-kehr-meets-vextrio/)
+
 * Oct 30 - [[Clemson Media Forensics Hub] Writers of the Storm: Who's Behind the Ongoing Production of Pro-Russian False Narratives](https://open.clemson.edu/cgi/viewcontent.cgi?article=1009&context=mfh_ci_reports)
 
 * Oct 14 - [[Clemson Media Forensics Hub] Hub Brief: Spamouflage Targeting of U.S. Senator Marco Rubio](https://open.clemson.edu/cgi/viewcontent.cgi?article=1007&context=mfh_reports)
@@ -156,6 +158,8 @@ Collection of reports on Influence Operation campaigns.
 * Aug 13 - [[Redcorded Future] Malign Influence Threats Mount Ahead of US 2024 Elections](https://go.recordedfuture.com/hubfs/reports/ta-2024-0813.pdf)
 
 * Aug 13 - [[CyberCX] Green Cicada Network: Emerging X (Twitter) inauthentic account network powered by generative AI](https://connect.cybercx.com.au/Intelligence-Update-CCX-IU-2024-004)
+
+* Jul 11 - [[Qurium Media Foundation] How Russia uses EU companies for propaganda](https://www.qurium.org/alerts/exposing-the-evil-empire-of-doppelganger-disinformation/)
 
 * Jun 28 - [[Recorded Future] Sombres Influences: Russian and Iranian Influence Networks Target French Elections](https://go.recordedfuture.com/hubfs/reports/TA-2024-0628.pdf)
 
@@ -250,6 +254,8 @@ Collection of reports on Influence Operation campaigns.
 * Oct 19 - [[Nisos] Twitter: Fake Accounts Amplify Chinese State Media for the 20th National Congress](https://www.nisos.com/library/twitter-fake-accounts-amplify-ccp-for-national-congress-report/)
 
 * Oct 05 - [[Nisos] Russian’s RT Leads a Global “Information Militia” on Social Media to Bypass Censorship on Ukraine-Related Disinformation](https://6068438.fs1.hubspotusercontent-na1.net/hubfs/6068438/Nisos-Report-on-RT-Global-Information-Militia.pdf)
+
+* Sep 27 - [[Qurium Media Foundation] Under the hood of a Doppelgänger](https://www.qurium.org/alerts/under-the-hood-of-a-doppelganger/)
 
 * Sep 21 - [[Stanford Internet Observatory] My Heart Belongs to Kashmir: An Analysis of a Pro-Indian Army Covert Influence Operation on Twitter](https://stacks.stanford.edu/file/druid:zs105tw7107/20220921%20India%20takedown.pdf)
 
