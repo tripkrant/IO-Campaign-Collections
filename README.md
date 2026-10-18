@@ -113,6 +113,8 @@ Collection of reports on Influence Operation campaigns.
 
 * May 15 - [[Google Threat Analysis Group] TAG Bulletin: Q1 2025](https://blog.google/threat-analysis-group/tag-bulletin-q1-2025/)
 
+* May 14 - [[EclecticIQ] Storm-1516 Deploys AI-Generated Media to Spread Disinformation: Targets European Leaders and Influences Istanbul Peace Talks](https://blog.eclecticiq.com/storm-1516-deploys-ai-generated-media-to-spread-disinformation-targets-european-leaders-and-influence-istanbul-peace-talks)
+
 * May 12 - [[Factcheck BY] Digital soldiers of disinformation: botnets on Belarusian YouTube](https://factcheck.by/eng/news/digital_soldiers_youtube_botnets/)
 
 * May 06 - [[VIGINUM] Analysis of the Russian information manipulation set Storm-1516](https://www.sgdsn.gouv.fr/files/files/Publications/20250507_TLP-CLEAR_NP_SGDSN_VIGINUM_Technical%20report_Storm-1516.pdf)
