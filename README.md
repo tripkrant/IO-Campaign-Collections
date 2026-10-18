@@ -347,6 +347,8 @@ Collection of reports on Influence Operation campaigns.
 
 * Nov 08 - [[Stanford Internet Observatory] Potemkin Pages & Personas: Assessing GRU Online Operations, 2014-2019](https://fsi-live.s3.us-west-1.amazonaws.com/s3fs-public/potemkin-pages-personas-sio-wp.pdf)
 
+* Oct 30 - [[Facebook] Removing More Coordinated Inauthentic Behavior From Russia](https://about.fb.com/news/2019/10/removing-more-coordinated-inauthentic-behavior-from-russia/)
+
 * Sep 19 - [[Graphika] Cross-Platform Spam Network Targeted Hong Kong Protests](https://public-assets.graphika.com/reports/graphika_report_spamouflage.pdf)
 
 * Jun 20 - [[Atlantic Council] The “Macron Leaks” Operation: A Post-Mortem](https://www.atlanticcouncil.org/wp-content/uploads/2019/06/The_Macron_Leaks_Operation-A_Post-Mortem.pdf)
@@ -361,7 +363,17 @@ Collection of reports on Influence Operation campaigns.
 
 * Nov - [[New Knowledge] The Tactics & Tropes of the Internet Research Agency](https://int.nyt.com/data/documenthelper/533-read-report-internet-research-agency/7871ea6d5b7bedafbf19/optimized/full.pdf)
 
+* Oct 26 - [[Facebook] Taking Down Coordinated Inauthentic Behavior from Iran](https://about.fb.com/news/2018/10/coordinated-inauthentic-behavior-takedown/)
+
+* Aug 21 - [[Facebook] Taking Down More Coordinated Inauthentic Behavior](https://about.fb.com/news/2018/08/more-coordinated-inauthentic-behavior/)
+
 * Aug 21 - [[FireEye] Suspected Iranian Influence Operation Leveraging Inauthentic News Sites and Social Media Aimed at U.S., U.K., Other Audiences](https://www.fireeye.com/blog/threat-research/2019/05/social-media-network-impersonates-us-political-candidates-supports-iranian-interests.html)
+
+* Apr 03 - [[Facebook] Authenticity Matters: The IRA Has No Place on Facebook](https://about.fb.com/news/2018/04/authenticity-matters/)
+
+## 2017
+
+* Sep 06 - [[Facebook] An Update On Information Operations On Facebook](https://about.fb.com/news/2017/09/information-operations-update/)
 
 ## Unknown Date
 
