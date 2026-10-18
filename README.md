@@ -65,7 +65,9 @@ Collection of reports on Influence Operation campaigns.
 
 * Mar 31 - [[DFRLab] Polskanews.org: a foreign influence operation masquerading as Polish news](https://dfrlab.org/2026/03/31/polskanews-org-a-foreign-influence-operation-masquerading-as-polish-news/)
 
-* Mar 25 - [[Clemson Media Forensics Hub]Operation Overload - Matryoshka's Next Layer](https://open.clemson.edu/cgi/viewcontent.cgi?article=1011&context=mfh_ci_reports)
+* Mar 25 - [[Clemson Media Forensics Hub] Operation Overload - Matryoshka's Next Layer](https://open.clemson.edu/cgi/viewcontent.cgi?article=1011&context=mfh_ci_reports)
+
+* Mar 20 - [[NewsGuard] Influence Campaign on TikTok Uses AI Videos to Boost Hungary’s Orbán Ahead of Crucial Elections](https://www.newsguardtech.com/special-reports/influence-campaign-uses-ai-tiktok-videos-to-boost-hungarys-viktor-orban/)
 
 * Mar 11 - [[Clemson Media Forensics Hub] From Texas to Tehran: A Multilingual, IRGC-affiliated Influence Operation on X, Instagram, and Bluesky](https://open.clemson.edu/cgi/viewcontent.cgi?article=1009&context=mfh_reports)
   
