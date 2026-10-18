@@ -165,6 +165,8 @@ Collection of reports on Influence Operation campaigns.
 
 * Jun 28 - [[Recorded Future] Sombres Influences: Russian and Iranian Influence Networks Target French Elections](https://go.recordedfuture.com/hubfs/reports/TA-2024-0628.pdf)
 
+* Jul 25 - [[HarfangLab] Mid-year Doppelgänger information operations in Europe and the US](https://harfanglab.io/insidethelab/doppelganger-operations-europe-us/)
+
 * Jun 24 - [[Recorded Future] Russia-Linked CopyCop Expands to Cover US Elections, Target Political Leaders](https://go.recordedfuture.com/hubfs/reports/cta-ru-2024-0624.pdf)
 
 * Jun 04 - [[CheckFirst] Operation Overload: how pro-Russian actors flood newsrooms with fake content and seek to divert their efforts](https://checkfirst.network/wp-content/uploads/2024/06/Operation_Overload_WEB.pdf)
