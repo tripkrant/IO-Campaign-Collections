@@ -119,6 +119,8 @@ Collection of reports on Influence Operation campaigns.
 
 * May 12 - [[Factcheck BY] Digital soldiers of disinformation: botnets on Belarusian YouTube](https://factcheck.by/eng/news/digital_soldiers_youtube_botnets/)
 
+* May 06 - [[Institute for Strategic Dialogue] Stolen voices: Russia-aligned operation manipulates audio and images to impersonate experts](https://www.isdglobal.org/digital-dispatch/stolen-voices-russia-aligned-operation-manipulates-audio-and-images-to-impersonate-experts/)
+
 * May 06 - [[VIGINUM] Analysis of the Russian information manipulation set Storm-1516](https://www.sgdsn.gouv.fr/files/files/Publications/20250507_TLP-CLEAR_NP_SGDSN_VIGINUM_Technical%20report_Storm-1516.pdf)
 
 * Apr 23 - [[Anthropic] Detecting and Countering Malicious Uses of Claude: March 2025](https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025)
