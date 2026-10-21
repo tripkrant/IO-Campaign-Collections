@@ -265,6 +265,8 @@ Collection of reports on Influence Operation campaigns.
 
 * Sep 27 - [[Qurium Media Foundation] Under the hood of a Doppelgänger](https://www.qurium.org/alerts/under-the-hood-of-a-doppelganger/)
 
+* Sep 27 - [[Meta] Taking down coordinated inauthentic behavior from Russia and China](https://about.fb.com/wp-content/uploads/2022/11/CIB-Report_-China-Russia-Sept-2022.pdf)
+
 * Sep 21 - [[Stanford Internet Observatory] My Heart Belongs to Kashmir: An Analysis of a Pro-Indian Army Covert Influence Operation on Twitter](https://stacks.stanford.edu/file/druid:zs105tw7107/20220921%20India%20takedown.pdf)
 
 * Sep 12 - [[Graphika] Trolling Taiwan](https://graphika.com/posts/trolling-taiwan)
