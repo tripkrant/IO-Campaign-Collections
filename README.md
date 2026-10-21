@@ -185,6 +185,8 @@ Collection of reports on Influence Operation campaigns.
 
 * May 08 - [[Recorded Future] Iran-Aligned Emerald Divide Influence Campaign Evolves to Exploit Israel-Hamas Conflict](https://go.recordedfuture.com/hubfs/reports/ta-2024-0508.pdf)
 
+* May 01 - [[OpenAI] Operation "Doppelganger": Russian influence activity targeting Ukraine](https://openai.com/index/disrupting-malicious-uses-of-ai-doppelganger/)
+
 * Apr 17 - [[Microsoft Threat Analysis Center] Nation-states engage in US-focused influence operations ahead of US presidential election](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2024/04/MTAC-Report-Elections-Report-Nation-states-engage-in-US-focused-influence-operations-ahead-of-US-presidential-election-04172024.pdf)
 
 * Apr 16 - [[AI Forensics] No Embargo in Sight: Meta Lets Pro-Russia Propaganda Ads Flood the EU](https://aiforensics.org/uploads/No_Embargo_in_Sight_AI_Forensics_Report_ad7ede416b.pdf)
