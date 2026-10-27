@@ -145,6 +145,9 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2024
 
+* Dec 23 - [[Alliance4Europe] Illegal Russian Influence Operations Continue Despite Sanctions]
+(https://alliance4europe.eu/russian-influence-doppelganger-report-dec-2024)
+
 * Dec 18 - [[Alliance4Europe]Storm-1516 and R-FBI: Russian Attempts to Interfere in the German Election](https://alliance4europe.eu/report/storm-1516-and-r-fbi-russian-attempts-to-interfere-in-the-german-election)
 
 * Nov 26 - [[Recorded Future] "Operation Undercut" Shows Multifaceted Nature of SDA’s Influence Operations](https://go.recordedfuture.com/hubfs/reports/TA-RU-2024-1126.pdf)
