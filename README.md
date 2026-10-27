@@ -3,6 +3,8 @@ Collection of reports on Influence Operation campaigns.
 
 ## 2026
 
+* Oct 27 - [[VIGINUM] GlobUs: A Russian organisation conducting information influence and interference in Africa](https://www.sgdsn.gouv.fr/files/files/viginum/Publications/20261027_TLP-CLEAR_NP_SGDSN_VIGINUM_Technical-Report_Globus.pdf)
+
 * Oct 16 - [[Alethea] One Network, Three Ballots: Fake Israeli And French Personas And Cloned News Sites Target The U.S. Midterms, Israel’s Election And France’s 2027 Race](https://alethea.com/hubfs/Operation%20Doppelganger_%20Alethea%20Report%20Oct%202026.pdf)
 
 * Oct 08 - [[OpenAI] Disrupting AI-enabled “false front” operations](https://openai.com/index/disrupting-ai-enabled-false-front-operations/)
