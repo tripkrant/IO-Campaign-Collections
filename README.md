@@ -423,3 +423,5 @@ Collection of reports on Influence Operation campaigns.
 * [[Francois] Disinformation ABC (+D)](https://science.house.gov/imo/media/doc/Francois%20Addendum%20to%20Testimony%20-%20ABC_Framework_2019_Sept_2019.pdf)
 
 * [[CogSec Collaborative] AMITT Disinformation Tactics, Techniques and Processes (TTP) Framework](https://github.com/cogsec-collaborative/AMITT)
+
+* [[Alliance4Europe] TAMM: Threat Actor Mapping Methodology DISRUPT Toolkit](https://alliance4europe.eu/wp-content/uploads/2026/10/Threat-Actor-Mapping-Methodology-TAMM-DISRUPT-Toolkit-A4E.pdf)
