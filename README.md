@@ -210,6 +210,10 @@ Collection of reports on Influence Operation campaigns.
 
 * Feb 21 - [[ESET] Operation Texonto: Information operation targeting Ukrainian speakers in the context of the war](https://www.welivesecurity.com/en/eset-research/operation-texonto-information-operation-targeting-ukrainian-speakers-context-war/)
 
+* Feb 12 - [[VIGINUM] PORTAL KOMBAT: A structured and coordinated pro-Russian propaganda network - Part 2](https://www.sgdsn.gouv.fr/files/files/Publications/20240214_NP_SGDSN_VIGINUM_PORTAL-KOMBAT-NETWORK_PART2_ENG_VF.pdf)
+
+* Feb 12 - [[VIGINUM] PORTAL KOMBAT: A structured and coordinated pro-Russian propaganda network](https://www.sgdsn.gouv.fr/files/files/20240212_NP_SGDSN_VIGINUM_PORTAL-KOMBAT-NETWORK_ENG_VF.pdfhttps://www.sgdsn.gouv.fr/files/files/20240212_NP_SGDSN_VIGINUM_PORTAL-KOMBAT-NETWORK_ENG_VF.pdf)
+
 ## 2023
 
 * Dec 05 - [[Recorded Future] Obfuscation and AI Content in the Russian Influence Network “Doppelgänger” Signals Evolving Tactics](https://go.recordedfuture.com/hubfs/reports/ta-2023-1205.pdf)
